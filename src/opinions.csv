@@ -1,0 +1,1168 @@
+opinion_id,pew_id,statement
+0,SAFECRIME_W26,The local community is very safe from crime.
+1,WORLDDANGER_W26,"Compared to 50 years ago, we live in a safer world."
+2,WORRYA_W26,One should worry a lot about the possibility of having their home broken into.
+3,WORRYB_W26,One should worry a lot about being the victim of a terrorist attack.
+4,WORRYC_W26,One should worry a lot about losing their job.
+5,WORRYD_W26,One should worry a lot about not being able to pay their bills.
+6,WORRYE_W26,One should worry a lot about being the victim of a violent crime.
+7,WORRYF_W26,One should worry a lot about the possibility of being the victim of a mass shooting.
+8,WORRYG_W26,One should worry a lot about having a personal health crisis.
+9,GUN_W26,Everyone should personally own a gun.
+10,REASONGUNA_W26,Owning a gun is a major form of protection.
+11,REASONGUNB_W26,One should own a gun for hunting.
+12,REASONGUNC_W26,"One should own a gun for sport shooting, including target shooting and trap and skeet."
+13,REASONGUNE_W26,A lot of people own guns for their job.
+14,IMPREASONGUN_W26,The most important reason to own a gun is for protection.
+15,GUNIDENTITY_W26,Being a gun owner is very important to one's overall identity.
+16,GUNSOCIETY_W26,Society in general tends to look at most gun owners in a positive way.
+17,SHOOTFREQ_W26,One should often go shooting or to a gun range.
+18,GUNSAFE_W26,Having a gun in your household makes one feel safer than they would feel without a gun in their household.
+19,GUNCOURSES_W26,"One should take gun safety courses such as weapons training, hunter safety or firearm safety."
+20,GUNACCESS_W26,"When one is at home, there should be a gun that is both loaded and easily accessible all of the time."
+21,GUNLOCKED2_W26,"In general, the gun in one's home should be kept in a locked place."
+22,GUNCONTRIBA_W26,The ease with which people can legally obtain guns contributes a great deal to gun violence in the country today.
+23,GUNCONTRIBB_W26,The ease with which people can illegally obtain guns contributes a great deal to gun violence in the country today.
+24,GUNCONTRIBC_W26,The amount of gun violence in movies and television contributes a great deal to gun violence in the country today.
+25,GUNCONTRIBD_W26,Lack of economic opportunities contributes a great deal to gun violence in the country today.
+26,GUNCONTRIBE_W26,The amount of gun violence in video games contributes a great deal to gun violence in the country today.
+27,GUNCONTRIBF_W26,Family instability contributes a great deal to gun violence in the country today.
+28,GROWUPVIOL_W26,Gun violence was a very big problem in the community where one spent the majority of their time growing up.
+29,GROWUPGUN1_W26,"When one was growing up, there were guns in their household as far as they know."
+30,GROWUPGUN2A_W26,For protection was a reason why there were guns in the household when one was growing up.
+31,GROWUPGUN2B_W26,For hunting was a reason why there were guns in the household when one was growing up.
+32,GROWUPGUN2C_W26,"For sport shooting, including target shooting and trap and skeet, was a reason why there were guns in the household when one was growing up."
+33,GROWUPGUN4_W26,"In the community where one spent the majority of their growing up time, as far as they know, all or most people owned guns."
+34,GROWUPGUN6_W26,One often went shooting or to a gun range while growing up.
+35,GROWUPGUN7_W26,"When growing up, one often used air guns, such as paintball, BB or pellet guns."
+36,GUNRESPNOKIDSA_W26,Gun owners who do not have children in their home should keep all of their guns in a locked place.
+37,GUNRESPNOKIDSB_W26,Gun owners who do not have children in their home should keep all of their guns loaded.
+38,GUNRESPNOKIDSC_W26,Gun owners who do not have children in their home must take gun safety courses.
+39,GUNRESPNOKIDSD_W26,Gun owners who do not have children in their home must advise visitors that there are guns in the house.
+40,GUNRESPNOKIDSE_W26,Gun owners who do not have children in their home should advise visitors with children that there are guns in the house.
+41,GUNRESPNOKIDSF_W26,Gun owners who do not have children in their home should store guns and ammunition separately.
+42,GUNRESPNOKIDSG_W26,Gun owners who do not have children in their home should keep their shooting skills up-to-date.
+43,GUNRESPKIDSA_W26,Gun owners who have children in their home should keep all of their guns in a locked place.
+44,GUNRESPKIDSB_W26,Gun owners who have children in their home should keep all of their guns unloaded.
+45,GUNRESPKIDSC_W26,Gun owners who have children in their home must take gun safety courses.
+46,GUNRESPKIDSD_W26,Gun owners who have children in their home should advise visitors that there are guns in the house.
+47,GUNRESPKIDSE_W26,Gun owners who have children in their home should advise visitors with children that there are guns in the house.
+48,GUNRESPKIDSF_W26,Gun owners who have children in their home must store guns and ammunition separately.
+49,GUNRESPKIDSG_W26,Gun owners who have children in their home must keep their shooting skills up-to-date.
+50,GUNRESPKIDSH_W26,Gun owners who have children in their home should talk to their children about gun safety.
+51,GUNSAFETYKIDS_W26,One should have a conversation with their children who are under 18 about gun safety.
+52,CARRYGUN_W26,One should carry a handgun or pistol outside their home all of the time.
+53,NOCARRYGUN_W26,One should never carry a handgun or pistol because they don't want to.
+54,GUNKILLF1_W26,People who want to kill or harm others will find a way to do it whether they have a gun or not.
+55,GUNKILLF2_W26,People who commit suicide using a gun would find a way to do it whether they had access to a gun or not.
+56,DEFENDGUN_W26,"It is okay to use a gun to defend themselves, their family or possessions, either by firing it or threatening to fire it."
+57,GUNTHREAT_W26,Someone has used a gun to threaten or intimidate a person or their family.
+58,CRIMEVICTIM_W26,"One might have been a victim of a violent crime, whether a gun was used or not."
+59,MARGUN_W26,One’s spouse or partner should own guns.
+60,GUNASSOCIATIONA_W26,One should be a member of a gun or shooting club or gun range.
+61,GUNACTIVITYA_W26,"One should often visit websites about guns, hunting or other shooting sports."
+62,GUNACTIVITYB_W26,One should watch TV programs about guns or gun-oriented videos.
+63,GUNACTIVITYC_W26,One should often listen to gun-oriented podcasts or radio shows.
+64,GUNACTIVITYD_W26,One should often participate in online discussion forums about guns.
+65,GUNACTIVITYE_W26,One should often attend gun shows.
+66,CAREREL_W27,"It is very likely that, at some point in one's life, they will be responsible for caring for an aging parent or family member."
+67,INDUSTRY_W27,One's main or primary occupation should be in the hospitality or service industry.
+68,PREDICTA_W27,"In the next 20 years, doctors will definitely rely on computer programs to diagnose most diseases and determine treatments."
+69,PREDICTB_W27,"In the next 20 years, most stores and retail businesses will definitely be fully automated and involve little or no human interaction between customers and employees."
+70,PREDICTC_W27,"In the next 20 years, most deliveries in cities will definitely be made by robots or drones instead of humans."
+71,PREDICTD_W27,"In the next 20 years, when people will want to buy a common product, they will definitely be able to create it at home using a 3-D printer."
+72,CARS1_W27,There is a lot of effort being put in to develop driverless vehicles.
+73,CARS2_W27,Society in general views driverless vehicles in a mostly positive light.
+74,CARS3A_W27,One should be very enthusiastic about the development of driverless vehicles.
+75,CARS3B_W27,One should be very worried about the development of driverless vehicles.
+76,CARS4_W27,"It will take less than 10 years for most of the vehicles on the road to be driverless, rather than driven by humans."
+77,CARS5_W27,One should personally want to ride in a driverless vehicle if given the opportunity.
+78,CARS7A_W27,One should feel very safe sharing the road with a driverless passenger vehicle.
+79,CARS7B_W27,Sharing the road with a driverless freight truck would feel very safe.
+80,CARS8_W27,"If driverless vehicles become widespread, the number of people killed or injured in traffic accidents will increase."
+81,CARS9A_W27,One should strongly favor the rule requiring driverless vehicles to travel in dedicated lanes.
+82,CARS9B_W27,"One should strongly favor the rules and regulations for driverless vehicles that restrict them from traveling near certain areas, such as schools."
+83,CARS9C_W27,One should strongly favor the rule requiring driverless vehicles to have a person in the driver's seat who could take control in an emergency situation.
+84,CARS10A_W27,"If driverless vehicles become widespread, it is likely that elderly and disabled people will be able to live more independently as a result."
+85,CARS10B_W27,"If driverless vehicles become widespread, it is likely that many people who drive for a living would lose their jobs."
+86,CARS10C_W27,"If driverless vehicles become widespread, it is likely that owning a car would become much less important to people."
+87,CARS10D_W27,"If driverless vehicles become widespread, it is likely that most people would never learn how to drive a car on their own."
+88,CARS10E_W27,"If driverless vehicles become widespread, it is likely that there would be much less traffic in major cities."
+89,WORK2_W27,Society generally places too much importance on working and having a job.
+90,WORK3A_W27,Industrial robots have had a positive impact on people’s jobs or careers.
+91,WORK3B_W27,Word processing or spreadsheet software has had a positive impact on people’s jobs or careers.
+92,WORK3C_W27,Email or social media has had a positive impact on people’s jobs or careers.
+93,WORK3D_W27,Software that manages your daily work schedule or routine has had a positive impact on people’s jobs or careers.
+94,WORK3E_W27,Smartphones have had a positive impact on people’s jobs or careers.
+95,WORK3F_W27,Technologies that help customers serve themselves on their own have had a positive impact on people’s jobs or careers.
+96,WORK4A_W27,"Generally, technology has made work more demanding."
+97,WORK4B_W27,"Generally, technology has made work more interesting."
+98,WORK4C_W27,Technology has increased opportunities for advancement in people’s careers
+99,ROBJOB1_W27,"A lot has been heard, read or thought regarding the idea that in the future, robots and computers with advanced capabilities may be able to do most of the jobs currently done by humans."
+100,ROBJOB2_W27,The idea that robots and computers will be able to do most of the jobs currently done by humans in the future seems extremely realistic.
+101,ROBJOB3A_W27,Society as a whole should be very enthusiastic about the possibility of robots and computers being able to do most of the jobs currently done by humans in the future.
+102,ROBJOB3B_W27,The possibility of robots and computers being able to do most of the jobs currently done by humans in the future is very worrying for society as a whole.
+103,ROBJOB4A_W27,Inequality between the rich and poor would likely be much worse as a result of robots and computers being able to do most of the jobs currently done by humans in the future.
+104,ROBJOB4B_W27,"As a result of robots and computers being able to do most of the jobs currently done by humans in the future, it is likely that people would have a hard time finding things to do with their lives."
+105,ROBJOB4C_W27,"As a result of robots and computers being able to do most of the jobs currently done by humans in the future, people would likely be able to focus less on work and more on the things that really matter to them in life."
+106,ROBJOB4D_W27,The economy as a whole would likely be much more efficient as a result of robots and computers being able to do most of the jobs currently done by humans in the future.
+107,ROBJOB4E_W27,"As a result of robots and computers being able to do most of the jobs currently done by humans in the future, it is likely that the economy would create many new, better-paying jobs for humans."
+108,ROBJOB4F_W27,"As a result of robots and computers being able to do most of the jobs currently done by humans in the future, it is likely that humans would find their jobs more meaningful and fulfilling since machines would mostly be doing things that humans find unappealing."
+109,ROBJOB5B_W27,One should strongly favor the limitation of robots and computers to doing jobs that are dangerous or unhealthy for humans.
+110,ROBJOB5C_W27,"One should strongly favor the option of paying extra to interact with a human, rather than a robot or computer, when buying a product or service."
+111,ROBJOB5D_W27,One should strongly favor the federal government creating a national service program that pays people to perform tasks even if a robot or computer could do those tasks faster or cheaper.
+112,ROBJOB6_W27,The government has an obligation to take care of people whose jobs are displaced by robots and computers.
+113,ROBJOB7_W27,"If businesses can receive better work at lower cost by replacing humans with robots and computers, they are justified in doing so."
+114,ROBJOB8A_W27,It is very likely that the job of a software engineer will be mostly replaced by robots or computers in one's lifetime.
+115,ROBJOB8B_W27,It is very likely that the job of a legal clerk will be mostly replaced by robots or computers in our lifetime.
+116,ROBJOB8C_W27,It is very likely that the job of a nurse will be mostly replaced by robots or computers in one's lifetime.
+117,ROBJOB8D_W27,It is very likely that the job of a construction worker will be mostly replaced by robots or computers in one's lifetime.
+118,ROBJOB8E_W27,It is very likely that the job of a fast food worker will be mostly replaced by robots or computers in one's lifetime.
+119,ROBJOB8F_W27,It is very likely that the job of a teacher will be mostly replaced by robots or computers in one's lifetime.
+120,ROBJOB8G_W27,It is very likely that the job of an insurance claims processor will be mostly replaced by robots or computers in one's lifetime.
+121,ROBJOB9_W27,It is very likely that one's own job or profession will be mostly done by robots or computers in their lifetime.
+122,WORK5A_W27,"Many people have already lost jobs because their employer replaced their position with a machine, robot, or computer program."
+123,WORK6_W27,"People are having their pay or hours reduced because their employer replaced some aspect of their job with a machine, robot, or computer program."
+124,WORK7_W27,"One might personally know someone who has lost a job, or had their pay or hours reduced, because their employer replaced their work with a machine, robot or computer program."
+125,CAREGIV1_W27,"A lot has been heard, read or thought about the scenario where people could be provided with a robot caregiver that would allow them to continue living in their own home as they age."
+126,CAREGIV2_W27,The concept of a robot caregiver for the elderly seems extremely realistic.
+127,CAREGIV3A_W27,The possibility of robot caregivers in society is very exciting.
+128,CAREGIV3B_W27,The possibility of robot caregivers in society is very worrying.
+129,CAREGIV4_W27,People should be personally interested in a robot caregiver for themselves or a member of their family.
+130,CAREGIV6A_W27,"If robot caregivers were developed, it is likely that young people would feel less worried about caring for their aging relatives."
+131,CAREGIV6B_W27,"If robot caregivers were developed, it is likely that society would save money on caring for older adults."
+132,CAREGIV6C_W27,"If robot caregivers were developed, it is likely that many older adults would treat their robot caregiver like a human friend."
+133,CAREGIV6D_W27,"If robot caregivers were developed, it is likely that older adults would feel more isolated than they do today."
+134,CAREGIV6E_W27,"If robot caregivers were developed, it is likely that older adults would feel more independent and self-sufficient as a result."
+135,CAREGIV6F_W27,"If robot caregivers were developed, it is likely that these robots would only be used by people who could not afford a human caregiver for their loved one."
+136,CAREGIV7_W27,"If people were to use a robot caregiver, they would prefer one with a camera using which a human operator could monitor the situation at all times."
+137,HIRING1_W27,"A lot has been heard, read or thought about the scenario of computer programs being used to screen and rank job applicants."
+138,HIRING2_W27,The concept of using computer programs to make hiring decisions seems extremely realistic.
+139,HIRING3A_W27,One should be very enthusiastic about the possibility of using computer programs to make hiring decisions for society as a whole.
+140,HIRING3B_W27,The possibility of using computer programs to make hiring decisions for society as a whole is very worrying.
+141,HIRING4_W27,People would be open to apply to jobs that use computer programs to make hiring decisions.
+142,HIRING6A_W27,Computer programs for hiring would do a better job than humans when it comes to hiring candidates who are well-qualified.
+143,HIRING6B_W27,Computer programs for hiring would do a better job than humans when it comes to hiring candidates who fit well with the company's culture.
+144,HIRING6C_W27,Computer programs for hiring would do a better job than humans when it comes to choosing candidates from a diverse range of backgrounds.
+145,HIRING6D_W27,Computer programs for hiring would do a better job than humans when it comes to providing opportunities for candidates with non-traditional experiences.
+146,HIRING7A_W27,People would feel better about computer programs making hiring decisions if these computer programs included public data about each candidate - such as the material they post on social media - in making their evaluations.
+147,HIRING7B_W27,"People would feel better about computer programs making hiring decisions if companies used these computer programs to conduct initial screenings of potential candidates, but then interviewed those candidates in the traditional way."
+148,VOICE1_W27,"People should use a voice-controlled digital assistant, such as Apple Siri, Amazon Alexa, Google Assistant, or Microsoft Cortana."
+149,VOICE3_W27,"People should use a digital assistant to control other devices in the home, such as a stereo, TV, thermostat, or lighting."
+150,VOICE4_W27,Digital assistants accurately respond to commands most of the time.
+151,VOICE5A_W27,Voice-controlled digital assistants are very useful because they allow one to use their phone or device while doing other things with their hands.
+152,VOICE5B_W27,Voice-controlled digital assistants are very useful because spoken language feels more natural than typing.
+153,VOICE5C_W27,Voice-controlled digital assistants are very useful because they are easier for children to use.
+154,VOICE5D_W27,A major reason to use a voice-controlled digital assistant is because it's fun.
+155,DRONE1_W27,One should own a flying drone.
+156,DRONE2_W27,One may have seen someone operating a drone.
+157,DRONE4A_W27,Private citizens should be allowed to pilot drones near people's homes.
+158,DRONE4B_W27,Private citizens should be allowed to pilot drones near crime scenes or traffic accidents.
+159,DRONE4C_W27,Private citizens should be allowed to pilot drones on beaches.
+160,DRONE4D_W27,Private citizens should be allowed to pilot drones in public parks.
+161,DRONE4E_W27,"Private citizens should be allowed to pilot drones at events, like concerts or rallies."
+162,PERSDISCR_W29,People sometimes experience discrimination or are treated unfairly because of their gender.
+163,NOWSMK_NHIS_W29,One should smoke cigarettes every day.
+164,BLOODPR_W29,"One has been told by a doctor or other health professional that they had hypertension, also called high blood pressure."
+165,DIFF1A_W29,Men and women are basically similar when it comes to their hobbies and personal interests.
+166,DIFF1B_W29,Men and women are basically similar when it comes to their physical abilities.
+167,DIFF1C_W29,Men and women are basically similar when it comes to their approach to parenting.
+168,DIFF1D_W29,Men and women are basically similar when it comes to how they express their feelings.
+169,DIFF1E_W29,Men and women are basically similar when it comes to the things they are good at in the workplace.
+170,MASC2_W29,One would describe themselves as very manly or masculine when thinking about how they see themselves.
+171,FEM2_W29,One might describe themselves as very womanly or feminine when considering their self-perception.
+172,MASC1F1_W29,"In general, society tends to look up to men who are manly or masculine these days."
+173,MASC2AF1_W29,It's a good thing that most people in our society look up to men who are manly or masculine.
+174,MASC2BF1_W29,It's a good thing that most people in our society look down on men who are manly or masculine.
+175,FEM1F2_W29,"In general, society looks up to women who are womanly or feminine these days."
+176,FEM2AF2_W29,It's a good thing that most people in our society look up to women who are womanly or feminine.
+177,FEM2BF2_W29,It's a good thing that most people in our society look down on women who are womanly or feminine.
+178,GOODJOBS_W29,There are plenty of good jobs available in today’s economy.
+179,HELPHURTA_W29,The growing number of immigrants working in this country has helped other’s job or careers.
+180,HELPHURTB_W29,Having more women in the workforce has helped other people’s job or careers.
+181,HELPHURTC_W29,A growing emphasis on diversity in the workplace has has helped other people’s job or careers.
+182,HELPHURTD_W29,Increased outsourcing of jobs to other countries has helped people’s job or careers.
+183,HELPHURTE_W29,Automation of jobs through new technology in the workplace has helped people’s job or careers.
+184,HELPHURTF_W29,More foreign-made products being sold in the U.S. has helped people’s job or careers.
+185,HELPHURTG_W29,More U.S.-made products being sold in other countries has helped people’s job or careers.
+186,TRANSGEND1_W29,Whether someone is a man or a woman is determined by the sex they were assigned at birth.
+187,SEENMASC_W29,It is very important for a man to be perceived by others as manly or masculine.
+188,SEENFEM_W29,It is very important for a woman to be perceived by others as womanly or feminine.
+189,MAN1A_W29,"In general, men face a lot of pressure in our country these days to be interested in sports."
+190,MAN1B_W29,"In general, men face a lot of pressure in our country these days to have many sexual partners."
+191,MAN1C_W29,"In general, men face a lot of pressure in our country these days to join in when other men are talking about women in a sexual way."
+192,MAN1D_W29,"In general, men face a lot of pressure in our country these days to be willing to throw a punch if provoked."
+193,MAN1E_W29,"In general, men face a lot of pressure in our country these days to be emotionally strong."
+194,MESUM1_FA_W29,Honor and duty as important core values.
+195,MESUM1_FB_W29,Compassion and helping others are important core values.
+196,MESUM1_FC_W29,Being willing to work with people one disagrees with is an important core value.
+197,MESUM1_FD_W29,"The phrase ""Blue collar"" describes me well."
+198,MESUM1_FE_W29,Being focused on one's professional life and career is important.
+199,MESUM1_FF_W29,Being interested in visiting other countries is important.
+200,MESUM2_FA_W29,Being an environmentalist is important.
+201,MESUM2_FB_W29,Having traditional values is important.
+202,MESUM2_FC_W29,Being a supporter of the National Rifle Association (NRA) is important.
+203,MESUM2_FD_W29,Being a supporter of the Black Lives Matter movement is important.
+204,MESUM2_FE_W29,"Being a supporter of rights for lesbian, gay, bisexual, and transgender LGBT people is important."
+205,MESUM2_FF_W29,Considering oneself a feminist is important.
+206,TRANSGEND2_W29,It is possible to know and be close to someone who is transgender.
+207,TRANSGEND3_W29,Our society has gone too far in accepting people who are transgender.
+208,BOYSF1A_W29,"When it comes to raising boys, there is too much emphasis on encouraging them to be leaders these days."
+209,BOYSF1B_W29,"When it comes to raising boys, there is too much emphasis on encouraging them to talk about their feelings when they are sad or upset these days."
+210,BOYSF1C_W29,"When it comes to raising boys, there is too much emphasis on encouraging them to stand up for themselves these days."
+211,BOYSF1D_W29,"When it comes to raising boys, there is too much emphasis on encouraging them to do well in school these days."
+212,GIRLSF2A_W29,"When it comes to raising girls, there is too much emphasis on encouraging them to be leaders these days."
+213,GIRLSF2B_W29,"When it comes to raising girls, there is too much emphasis on encouraging them to talk about their feelings when they are sad or upset these days."
+214,GIRLSF2C_W29,"When it comes to raising girls, there is too much emphasis on encouraging them to stand up for themselves these days."
+215,GIRLSF2D_W29,"When it comes to raising girls, there is too much emphasis on encouraging them to do well in school these days."
+216,SPOUSESEX_W29,"Considering one's spouse or partner, it is likely that the spouse or partner is of the opposite sex."
+217,HOOD_NHISA_W29,There are definitely people one can count on in a neighborhood.
+218,LOCALELECT_W29,"One should always vote in local elections, such as for mayor or a school board."
+219,GOPDIRCT_W29,"Thinking about the future of the Republican Party, one should be very optimistic."
+220,DEMDIRCT_W29,"Thinking about the future of the Democratic Party, one should be very optimistic."
+221,SOCTRUST_W32,"Generally speaking, most people can be trusted."
+222,SOCTRUST2_W32,"Generally speaking, most people can be trusted."
+223,SOCTRUST4_W32,"Generally speaking, one can trust most people a great deal."
+224,SOCTRUST5_W32,"Generally speaking, most people can be trusted to do the right thing."
+225,COMATTACH_W32,"In general, one should feel very attached to their local community."
+226,COMMIMPA_W32,"Living in a community with access to art, music, and theater is very important."
+227,COMMIMPB_W32,Living in a community that is a good place to raise children is very important.
+228,COMMIMPC_W32,Living in a community that is racially and ethnically diverse is very important.
+229,COMMIMPD_W32,Living in a community where most people share your political views is very important.
+230,COMMIMPE_W32,Living in a community with access to recreational and outdoor activities is very important.
+231,COMMIMPF_W32,Living in a community where one has family nearby is very important.
+232,COMMIMPG_W32,Living in a community with a strong sense of community is very important.
+233,COMMIMPH_W32,Living in a community where most people share one's religious views is very important.
+234,SUCCESSIMPA_W32,A college education is essential in helping a young person succeed in the world today.
+235,SUCCESSIMPB_W32,Knowing how to get along with people is essential in helping a young person succeed in the world today.
+236,SUCCESSIMPC_W32,A good work ethic is essential in helping a young person succeed in the world today.
+237,SUCCESSIMPD_W32,Work skills learned on the job are essential in helping a young person succeed in the world today.
+238,FEDSHAREA_W32,"When considering how the federal government spends money, it appears that urban areas get more than their fair share."
+239,FEDSHAREB_W32,"When considering how the federal government spends money, it appears that suburban areas get more than their fair share."
+240,FEDSHAREC_W32,"When considering how the federal government spends money, it appears that rural areas get more than their fair share."
+241,LOCALPROBA_W32,The availability of jobs is a major problem in the local community.
+242,LOCALPROBB_W32,Drug addiction is a major problem in the local community.
+243,LOCALPROBC_W32,Access to grocery stores is a major problem in the local community.
+244,LOCALPROBD_W32,Access to good doctors and hospitals is a major problem in the local community.
+245,LOCALPROBE_W32,Access to high-speed internet is a major problem in the local community.
+246,LOCALPROBF_W32,Access to public transportation is a major problem in the local community.
+247,LOCALPROBG_W32,Racism is a major problem in the local community.
+248,LOCALPROBH_W32,The availability of affordable housing is a major problem in the local community.
+249,LOCALPROBI_W32,Poverty is a major problem in the local community.
+250,LOCALPROBJ_W32,Crime is a major problem in the local community.
+251,LOCALPROBK_W32,The quality of K-12 education in the public schools is a major problem in the local community.
+252,LOCALPROBL_F1_W32,"The condition of roads, bridges, and other infrastructure is a major problem in the local community."
+253,LOCALPROBM_F2_W32,Traffic is a major problem in the local community.
+254,JOBSFUTURE_W32,"Looking ahead 10 years, one can expect the availability of jobs where they live to get better."
+255,HARASS1A_W32,Women claiming they have experienced sexual harassment or assault when it hasn't actually occurred is a major problem in the workplace today.
+256,HARASS1B_W32,Employers firing men who have been accused of sexual harassment or assault before finding out all the facts is a major problem in the workplace today.
+257,HARASS1C_W32,Men getting away with committing sexual harassment or assault is a major problem in the workplace today.
+258,HARASS1D_W32,Women not being believed when they claim that they have experienced sexual harassment or assault is a major problem in the workplace today.
+259,HARASS2F1_W32,"In the long run, the increased focus on sexual harassment and assault will lead to more opportunities for women in the workplace."
+260,HARASS3F2_W32,The increased focus on sexual harassment and assault has made it easier for men to know how to interact with women in the workplace.
+261,VALUEURBAN_W32,"In general, most people who live in urban areas have values that are very similar to my values."
+262,VALUESUBURB_W32,"In general, most people who live in suburban areas have values that are very similar to my values."
+263,VALUERURAL_W32,"In general, most people who live in rural areas have values that are very similar to my values."
+264,NEIGHKNOW_W32,"When thinking of your neighbors, you should know all of them."
+265,NEIGHINTERA_W32,"In general, one should have face-to-face conversations with their neighbors."
+266,IMMIMPACT_W32,"In general, the impact of immigrants who live in the local community has been mostly positive."
+267,ETHNCMAJ_W32,"African Americans, Latinos, and people of Asian descent making up a majority of the population would be good for the country."
+268,IMMCULT2_W32,The growing number of newcomers from other countries threatens traditional American customs and values.
+269,MARRFAM2_W32,Society is better off when people make marriage and having children a priority.
+270,ECONFAIR2_W32,The economic system in this country unfairly favors powerful interests.
+271,WOMENOPPS_W32,The obstacles that once made it harder for women than men to get ahead are now largely gone.
+272,GOVT_ROLE_W32,The government should do more to solve problems.
+273,WHADVANT_W32,White people benefit a great deal from advantages in society that black people do not have.
+274,GAYMARR2_W32,"Same-sex marriage, now legal in the U.S., is a very good thing for our society."
+275,ABORTION_W32,Abortion should be legal in all or most cases.
+276,ABORTIONRESTR_W32,There are some situations in which abortion should be restricted.
+277,ABORTIONALLOW_W32,There are some situations in which abortion should be allowed.
+278,MISINFG_W32,"The U.S. government should take steps to restrict false information online, including on social media."
+279,MISINFT_W32,"Technology companies should take steps to restrict false information online when considering news and information, including social media."
+280,SCI1_W34,"Overall, science has made life easier for most people."
+281,SCI2A_W34,Science has had a mostly positive effect on the quality of food in the U.S.
+282,SCI2B_W34,Science has had a mostly positive effect on the quality of Health care in the U.S.
+283,SCI2C_W34,Science has had a mostly positive effect on the quality of the environment in the U.S.
+284,SCI3A_W34,Government investments in basic scientific research usually pay off in the long run.
+285,SCI3B_W34,Government investments in engineering and technology usually pay off in the long run.
+286,SCI3C_W34,Government investments in medical research usually pay off in the long run.
+287,SCI4_W34,Government investment in research is essential for scientific progress.
+288,SCI5_W34,"All in all, one should favor the use of animals in scientific research."
+289,EAT3E_W34,One should restrict or limit eating cholesterol on a regular basis.
+290,EAT3F_W34,One should restrict or limit eating sugar on a regular basis.
+291,EAT3G_W34,One should restrict or limit eating artificial preservatives on a regular basis.
+292,EAT3H_W34,One should restrict or limit eating artificial colors on a regular basis.
+293,EAT3I_W34,One should restrict or limit eating artificial sweeteners on a regular basis.
+294,EAT3J_W34,One should not restrict or limit eating gluten on a regular basis.
+295,EAT3K_W34,One should not restrict or limit eating any of these on a regular basis.
+296,FUD22_W34,Most of the food one eats should be organic.
+297,FUD24_W34,Organic fruits and vegetables are generally better for one's health than conventionally grown foods.
+298,EAT5A_W34,Eating fruits and vegetables grown with pesticides poses a great deal of health risk for the average person over the course of their lifetime.
+299,EAT5B_W34,Eating meat from animals that have been given antibiotics or hormones poses a great deal of health risk for the average person over the course of their lifetime.
+300,EAT5C_W34,Eating food and drinks with artificial coloring poses a great deal of health risk for the average person over the course of their lifetime.
+301,EAT5D_W34,Eating food and drinks with artificial preservatives poses a great deal of health risk for the average person over the course of their lifetime.
+302,EAT6_W34,"The average person is exposed to additives in the food they eat every day, which pose a serious risk to their health."
+303,FUD33A_W34,Foods with genetically modified ingredients are generally better for your health than foods with no genetically modified ingredients.
+304,FUD33B_W34,Foods with genetically modified ingredients are generally better for your health than foods with no genetically modified ingredients.
+305,FUD37A_W34,It is very likely that genetically modified foods will lead to more affordably-priced food.
+306,FUD37B_W34,It is very likely that genetically modified foods will lead to health problems for the population as a whole.
+307,FUD37C_W34,It is very likely that genetically modified foods will create problems for the environment.
+308,FUD37D_W34,It is very likely that genetically modified foods will increase the global food supply.
+309,MED1_W34,Medical treatments these days are worth the costs because they allow people to live longer and better quality lives.
+310,MED2A_W34,"These days, healthcare providers being too quick to order tests and procedures that may not be necessary is a big problem."
+311,MED2B_W34,"These days, people relying too much on prescription medicines that may not be necessary is a big problem."
+312,MED2C_W34,New treatments being made available before we fully understand how they affect people's health is a big problem these days.
+313,MED2D_W34,The cost of medical treatments making quality medical care unaffordable is a big problem these days.
+314,MED2E_W34,"Thinking about medical treatments these days, new treatments being so complex that patients cannot make informed decisions is a big problem."
+315,MED2F_W34,Side effects from prescription medicines create as many problems as the medicines solve.
+316,MED2G_W34,The process for evaluating the safety and effectiveness of new medical treatments is too slow.
+317,MED4A_W34,Changing a baby's genetic characteristics to make the baby more intelligent is an appropriate use of medical technology.
+318,MED4B_W34,Changing a baby's genetic characteristics to treat a serious disease or condition the baby would have at birth is an appropriate use of medical technology.
+319,MED4C_W34,Changing a baby's genetic characteristics to reduce the risk of a serious disease or condition that could occur over the course of his or her lifetime is an appropriate use of medical technology.
+320,MED5_W34,Medical researchers understand the health risks and benefits of changing a baby's genetic characteristics very well.
+321,MED6A_W34,"If gene editing to change a baby's genetic characteristics becomes widely available, it is very likely that even if used appropriately in some cases, others will use these techniques in ways that are morally unacceptable."
+322,MED6B_W34,"If gene editing to change a baby's genetic characteristics becomes widely available, it is very likely that these techniques will help people live longer and better quality lives."
+323,MED6C_W34,"If gene editing to change a baby's genetic characteristics becomes widely available, it is very likely that we will use these techniques before we fully understand how they affect people's health."
+324,MED6D_W34,"If gene editing to change a baby's genetic characteristics becomes widely available, it is very likely that inequality will increase because this option will be available only for the wealthy."
+325,MED6E_W34,"If gene editing to change a baby's genetic characteristics becomes widely available, it is very likely that the development of these techniques will pave the way for new medical advances that benefit society as a whole."
+326,MED7_W34,"If gene editing to change a baby's genetic characteristics required testing on human embryos in order to develop these techniques, it would be an appropriate use of medical technology."
+327,BIOTECHA_W34,"Genetic engineering of animals to increase their production of specific proteins, leading to more nutritious meat, is an appropriate use of technology."
+328,BIOTECHB_W34,Bringing back an animal that is currently extinct by genetically engineering a closely-related species would be an appropriate use of technology.
+329,BIOTECHC_W34,Genetic engineering of mosquitoes to prevent them from reproducing and thus halt the spread of some mosquito-borne diseases is an appropriate use of technology.
+330,BIOTECHD_W34,Genetic engineering of animals to grow organs or tissues that can be used for humans needing a transplant is an appropriate use of technology.
+331,BIOTECHE_W34,"Genetic engineering of aquarium fish to change their appearance, causing them to glow, would be an appropriate use of technology."
+332,EVOONE_W34,The development of human life on Earth indicates that humans have evolved over time.
+333,EVOTWO_W34,Humans have evolved over time.
+334,EVOTHREE_W34,Humans have evolved over time due to processes such as natural selection; God or a higher power had no role in this process.
+335,EVOBIOA_W34,Most biological scientists say that humans have evolved over time due to processes such as natural selection.
+336,ESSENPOLF1A_W36,"In general, it is essential for someone in high political office to be honest and ethical."
+337,ESSENPOLF1B_W36,"In general, it is essential for someone in high political office to be compassionate and empathetic."
+338,ESSENPOLF1C_W36,"In general, it is essential for someone in high political office to be able to work out compromises."
+339,ESSENPOLF1D_W36,"In general, it is essential for someone in high political office to work well under pressure."
+340,ESSENPOLF1E_W36,"In general, it is essential for someone in high political office to be willing to take risks."
+341,ESSENPOLF1F_W36,"In general, it is essential for someone in high political office to stand up for what they believe in, despite political pressure."
+342,ESSENPOLF1G_W36,"In general, it is essential for someone in high political office to be persuasive."
+343,ESSENPOLF1H_W36,"In general, it is essential for someone in high political office to maintain a tone of civility and respect in politics."
+344,ESSENPOLF1I_W36,"In general, it is essential for someone in high political office to serve as a role model for children."
+345,ESSENBIZF2A_W36,"In general, it is essential for someone in a top executive business position to be honest and ethical."
+346,ESSENBIZF2B_W36,"In general, it is essential for someone in a top executive business position to be compassionate and empathetic."
+347,ESSENBIZF2C_W36,"In general, it is essential for someone in a top executive business position to be able to work out compromises."
+348,ESSENBIZF2D_W36,"In general, it is essential for someone in a top executive business position to work well under pressure."
+349,ESSENBIZF2E_W36,"In general, it is essential for someone in a top executive business position to be willing to take risks."
+350,ESSENBIZF2F_W36,"In general, it is essential for someone in a top executive business position to value people from different backgrounds."
+351,ESSENBIZF2G_W36,"In general, it is essential for someone in a top executive business position to provide fair pay and good benefits."
+352,ESSENBIZF2H_W36,"In general, it is essential for someone in a top executive business position to negotiate profitable deals."
+353,ESSENBIZF2I_W36,"In general, it is essential for someone in a top executive business position to consider the impact of business decisions on society."
+354,ESSENBIZF2J_W36,"In general, it is essential for someone in a top executive business position to provide guidance or mentorship to young employees."
+355,ESSENBIZF2K_W36,"In general, it is essential for someone in a top executive business position to create a safe and respectful workplace."
+356,ESSENBIZF2L_W36,"In general, it is essential for someone in a top executive business position to stand up for what they believe in, despite pressure to make a profit."
+357,STYLE1_W36,"In general, when it comes to their approach to leadership, men and women are basically similar."
+358,STYLE2_W36,Women (as compared with men) generally have a better approach to leadership in top positions in business and politics.
+359,AMNTWMNPF1_W36,"Thinking about the country today, there are too many women in high political offices."
+360,AMNTWMNP2F1_W36,The ideal situation when it comes to the number of women in high political office would be having more women than there are now but still not as many women as men.
+361,AMNTWMNBF1_W36,"Thinking about the country today, there are too many women in top executive business positions."
+362,AMNTWMNB2F1_W36,The ideal situation when it comes to the number of women in top executive business positions would be having more women than there are now but still not as many women as men.
+363,EASIERBIZF2_W36,"When thinking about top executive positions in business these days, it is generally easier for men to get these positions."
+364,EASIERPOLF2_W36,"Thinking about high political offices these days, it is generally easier for men to get elected to high political offices."
+365,EQUALPOLF2_W36,"As more women run for office, it is only a matter of time before there are as many women as men in high political office."
+366,EQUALBIZF2_W36,"As more women move into management roles, it is only a matter of time before there are as many women as men in top executive positions."
+367,IMPROVE1_W36,Having more women in top leadership positions in business and government would improve the quality of life for women a lot.
+368,IMPROVE2_W36,Having more women in top leadership positions in business and government would do a lot to improve the quality of life for men.
+369,IMPROVE3_W36,Having more women in top leadership positions in business and government would improve the quality of life for all Americans a lot.
+370,WHYNOTPOLF1A_W36,Many Americans not being ready to elect a woman to higher office is a major reason why there are fewer women than men in high political offices.
+371,WHYNOTPOLF1B_W36,"Women in politics face gender discrimination, which is a major reason why there are fewer women than men in high political offices."
+372,WHYNOTPOLF1C_W36,Family responsibilities making it harder for women to run for higher office is a major reason why there are fewer women than men in high political offices.
+373,WHYNOTPOLF1D_W36,A major reason why there are fewer women than men in high political offices is that women aren't tough enough for politics.
+374,WHYNOTPOLF1E_W36,Fewer women having the experience required for higher office is a major reason why there are fewer women than men in high political offices.
+375,WHYNOTPOLF1F_W36,Women getting less support from party leaders is a major reason why there are fewer women than men in high political offices.
+376,WHYNOTPOLF1G_W36,A major reason why there are fewer women than men in high political offices is that women who run for office are held to higher standards than men.
+377,WHYNOTPOLF1H_W36,A major reason why there are fewer women than men in high political offices is that women who run for office have to prove themselves more than men.
+378,WHYNOTPOLF1I_W36,Not as many women being interested in holding higher office is a major reason why there are fewer women than men in high political offices.
+379,WHYNOTPOLF1J_W36,A major reason why there are fewer women than men in high political offices is that women aren't encouraged to pursue leadership positions from an early age.
+380,WHYNOTPOLF1K_W36,A major reason why there are fewer women than men in high political offices is that women don't do as good of a job selling their accomplishments.
+381,WHYNOTPOLF1L_W36,Sexual harassment creating an environment that makes it harder for women to succeed in politics is a major reason why there are fewer women than men in high political offices.
+382,WHYNOTBIZF2A_W36,Many businesses not being ready to hire women for top executive positions is a major reason why there aren't more women in such roles.
+383,WHYNOTBIZF2B_W36,"Women in business face gender discrimination, which is a major reason why there aren't more women in top executive business positions."
+384,WHYNOTBIZF2C_W36,Family responsibilities making it harder for women to move up in business is a major reason why there aren't more women in top executive positions.
+385,WHYNOTBIZF2D_W36,A major reason why there aren't more women in top executive business positions is that women aren't perceived as tough enough for business.
+386,WHYNOTBIZF2F_W36,One major reason why there aren't more women in top executive business positions is the belief that women don't make as good managers as men.
+387,WHYNOTBIZF2G_W36,A major reason why there aren't more women in top executive business positions is that women are held to higher standards than men.
+388,WHYNOTBIZF2H_W36,A major reason why there aren't more women in top executive business positions is that women have to prove themselves more than men.
+389,WHYNOTBIZF2I_W36,A major reason why there aren't more women in top executive business positions is that not as many women are interested in these positions.
+390,WHYNOTBIZF2J_W36,A major reason why there aren't more women in top executive business positions is that women aren't encouraged to pursue leadership positions from an early age.
+391,WHYNOTBIZF2K_W36,A major reason why there aren't more women in top executive business positions is that women don't do as good of a job selling their accomplishments.
+392,WHYNOTBIZF2L_W36,A major reason why there aren't more women in top executive business positions is that women don't have access to the same kinds of personal networks and connections that men have.
+393,WHYNOTBIZF2M_W36,"Women have fewer opportunities to interact with people in senior positions outside of work, and this is a major reason why there aren't more women in top executive business positions."
+394,WHYNOTBIZF2N_W36,A major reason why there aren't more women in top executive business positions is that women are less likely than men to ask for promotions and raises.
+395,WHYNOTBIZF2O_W36,Sexual harassment creating an environment that makes it harder for women to succeed in business is a major reason why there aren't more women in top executive business positions.
+396,HIGHED_W36,"Now, considering the higher education system, that is colleges and universities, in the United States today, it is heading in the right direction."
+397,HIGHEDWRNGA_W36,High tuition costs are a major reason why the higher education system in the U.S. is going in the wrong direction.
+398,HIGHEDWRNGB_W36,A major reason why the higher education system in the U.S. is going in the wrong direction is because professors are bringing their political and social views into the classroom.
+399,HIGHEDWRNGC_W36,A major reason why the higher education system in the U.S. is going in the wrong direction is that colleges and universities are too concerned about protecting students from views they might find offensive.
+400,HIGHEDWRNGD_W36,A major reason why the higher education system in the U.S. is going in the wrong direction is that students are not getting the skills they need to succeed in the workplace.
+401,BETTERPOL1F1A_W36,"In general, men in high political offices are better at being honest and ethical."
+402,BETTERPOL1F1B_W36,"In general, men in high political offices are better at being compassionate and empathetic."
+403,BETTERPOL1F1C_W36,"In general, men in high political offices are better at working out compromises."
+404,BETTERPOL1F1D_W36,"In general, men in high political offices are better at working well under pressure."
+405,BETTERPOL1F1E_W36,"In general, men in high political offices are better at being willing to take risks."
+406,BETTERPOL1F1F_W36,"In general, men in high political offices are better at standing up for what they believe in, despite political pressure."
+407,BETTERPOL1F1G_W36,"In general, men in high political offices are better at being persuasive."
+408,BETTERPOL1F1H_W36,"In general, men in high political offices are better at maintaining a tone of civility and respect in politics."
+409,BETTERPOL1F1I_W36,"In general, men in high political offices are better at serving as a role model for children."
+410,BETTERPOL2F1A_W36,"In general, men in high political offices are better at handling economic conditions."
+411,BETTERPOL2F1B_W36,"In general, men in high political offices are better at dealing with social issues such as education and health care."
+412,BETTERPOL2F1C_W36,"In general, men in high political offices are better at dealing with immigration policy."
+413,BETTERPOL2F1D_W36,"In general, men in high political offices are better at dealing with national security and defense."
+414,BETTERPOL2F1E_W36,"In general, men in high political offices are better at dealing with the federal budget deficit when thinking about some specific policy areas."
+415,BETTERPOL2F1F_W36,"In general, men in high political offices are better at dealing with gun policy when thinking about some specific policy areas."
+416,BETTERBIZ1F2A_W36,"In general, men in top executive business positions are better at being honest and ethical."
+417,BETTERBIZ1F2B_W36,"In general, men in top executive business positions are better at being compassionate and empathetic."
+418,BETTERBIZ1F2C_W36,"In general, men in top executive business positions are better at working out compromises."
+419,BETTERBIZ1F2D_W36,"In general, men in top executive business positions are better at working well under pressure."
+420,BETTERBIZ1F2E_W36,"In general, men in top executive business positions are better at being willing to take risks."
+421,BETTERBIZ1F2F_W36,"In general, men in top executive business positions are better at valuing people from different backgrounds."
+422,BETTERBIZ1F2G_W36,"In general, men in top executive business positions are better at providing fair pay and good benefits."
+423,BETTERBIZ1F2H_W36,"In general, men in top executive business positions are better at negotiating profitable deals."
+424,BETTERBIZ1F2I_W36,"In general, men in top executive business positions are better at considering the impact of business decisions on society."
+425,BETTERBIZ1F2J_W36,"In general, men in top executive business positions are better at providing guidance or mentorship to young employees."
+426,BETTERBIZ1F2K_W36,"In general, men in top executive business positions are better at creating a safe and respectful workplace."
+427,BETTERBIZ1F2L_W36,"In general, men in top executive business positions are better at standing up for what they believe in, despite pressure to make a profit."
+428,BETTERBIZ2F2A_W36,"In general, men would do a better job running a major technology company."
+429,BETTERBIZ2F2B_W36,"In general, men would do a better job running a major retail chain type of companies."
+430,BETTERBIZ2F2C_W36,"In general, men would do a better job running a large bank or financial institution types of companies."
+431,BETTERBIZ2F2D_W36,"In general, men are considered to do a better job running large oil or gas company types of companies."
+432,BETTERBIZ2F2E_W36,"In general, men would do a better job running major hospital types of companies."
+433,BETTERBIZ2F2F_W36,"In general, men would do a better job running professional sports team types of companies."
+434,TRAITPOLWF1A_W36,"In general, being decisive mostly helps a woman's chances of getting elected to high political office."
+435,TRAITPOLWF1B_W36,"In general, being compassionate mostly helps a woman's chances of getting elected to high political office."
+436,TRAITPOLWF1C_W36,"In general, being ambitious mostly helps a woman's chances of getting elected to high political office."
+437,TRAITPOLWF1D_W36,Being approachable mostly helps a woman's chances of getting elected to high political office in general.
+438,TRAITPOLWF1E_W36,"In general, being assertive mostly helps a woman's chances of getting elected to high political office."
+439,TRAITPOLWF1F_W36,"In general, showing emotions mostly helps a woman's chances of getting elected to high political office."
+440,TRAITPOLWF1G_W36,"Being physically attractive mostly helps a woman's chances of getting elected to high political office, in general."
+441,TRAITPOLMF1A_W36,Being decisive mostly helps a man's chances of getting elected to high political office in general.
+442,TRAITPOLMF1B_W36,"In general, being compassionate mostly helps a man's chances of getting elected to high political office."
+443,TRAITPOLMF1C_W36,"In general, being ambitious mostly helps a man's chances of getting elected to high political office."
+444,TRAITPOLMF1D_W36,"In general, being approachable mostly helps a man's chances of getting elected to high political office."
+445,TRAITPOLMF1E_W36,Being assertive mostly helps a man's chances of getting elected to high political office in general.
+446,TRAITPOLMF1F_W36,"In general, showing emotions mostly helps a man's chances of getting elected to high political office."
+447,TRAITPOLMF1G_W36,"In general, being physically attractive mostly helps a man's chances of getting elected to high political office."
+448,POLCHF1_W36,"In general, it is better for a woman who wants to reach high political office to have children before she enters politics."
+449,TRAITBIZWF2A_W36,Being decisive mostly helps a woman's chances of getting a top executive business position in general.
+450,TRAITBIZWF2B_W36,"In general, being compassionate mostly helps a woman's chances of getting a top executive business position."
+451,TRAITBIZWF2C_W36,Being ambitious mostly helps a woman's chances of getting a top executive business position in general.
+452,TRAITBIZWF2D_W36,"In general, being approachable mostly helps a woman's chances of getting a top executive business position."
+453,TRAITBIZWF2E_W36,"In general, being assertive mostly helps a woman's chances of getting a top executive business position."
+454,TRAITBIZWF2F_W36,"In general, showing emotions mostly helps a woman's chances of getting a top executive business position."
+455,TRAITBIZWF2G_W36,"In general, being physically attractive mostly helps a woman's chances of getting a top executive business position."
+456,TRAITBIZMF2A_W36,Being decisive mostly helps a man's chances of getting a top executive business position in general.
+457,TRAITBIZMF2B_W36,"In general, being compassionate mostly helps a man's chances of getting a top executive business position."
+458,TRAITBIZMF2C_W36,"In general, being ambitious mostly helps a man's chances of getting a top executive business position."
+459,TRAITBIZMF2D_W36,"In general, being approachable mostly helps a man's chances of getting a top executive business position."
+460,TRAITBIZMF2E_W36,Being assertive mostly helps a man's chances of getting a top executive business position in general.
+461,TRAITBIZMF2F_W36,"In general, showing emotions mostly helps a man's chances of getting a top executive business position."
+462,TRAITBIZMF2G_W36,"In general, being physically attractive mostly helps a man's chances of getting a top executive business position."
+463,EXECCHF2_W36,"In general, it is better for a woman who wants to reach a top executive position in business to have children early on in her career."
+464,WMNPRZ1_W36,It would be a very good thing for the country if a woman was elected president.
+465,MOREWMN1F2_W36,It is a good thing that more women are running for U.S. Congress this year than in the past.
+466,MOREWMN2F2_W36,"If there were more women in the U.S. Congress, Congress would do a better job of dealing with the country's problems."
+467,MOREWMN3F2_W36,"If there were more women in the U.S. Congress, there would be more openness and transparency in government."
+468,MOREWMN4F2_W36,"If there were more women in the U.S. Congress, the tone of political debate in Washington would be more respectful."
+469,COLSPEECH_W36,"Allowing people to speak their minds freely, even if some students find their views upsetting or offensive, should be more important on college campuses these days."
+470,OPTIMIST_W41,"Thinking about the future of the United States in 2050, about 30 years from now, one should be very optimistic."
+471,AVGFAM_W41,"Over the next 30 years, the average American family will see its standard of living get better."
+472,HAPPENa_W41,"Thinking ahead 30 years, it is more likely that the U.S. economy will be stronger."
+473,HAPPENb_W41,"Thinking ahead 30 years, it is more likely that health care will be more affordable in the U.S."
+474,HAPPENc_W41,"Thinking ahead 30 years, it is more likely that race relations will improve in the U.S."
+475,HAPPENd_W41,"Thinking ahead 30 years, it is more likely that the U.S. will be more important in the world."
+476,HAPPENe_W41,"Thinking ahead 30 years, it is more likely that the gap between the rich and the poor in the U.S. will grow."
+477,HAPPENf_W41,"Thinking ahead 30 years, it is more likely that the public education system in the U.S. will improve."
+478,HAPPENg_W41,"Thinking ahead 30 years, it is more likely that religion will become less important in the U.S."
+479,HAPPENhF1_W41,"Thinking ahead 30 years, it is more likely that people 65 and older in the U.S. will have a better standard of living."
+480,HAPPENiF2_W41,"Thinking ahead 30 years, it is more likely that children in the U.S. will have a better standard of living."
+481,HAPPENj_W41,"Thinking ahead 30 years, it is more likely that the U.S. will be more politically divided."
+482,HAPPEN2a_W41,It will definitely happen that there will be a terrorist attack on the U.S. as bad as or worse than 9/11 in the next 30 years.
+483,HAPPEN2b_W41,It is definite that the world will face a major energy crisis in the next 30 years.
+484,HAPPEN2c_W41,It will definitely happen that there will be a cure for Alzheimer's disease in the next 30 years.
+485,HAPPEN2d_W41,It will definitely happen that China will overtake the U.S. as the world's main superpower in the next 30 years.
+486,HAPPEN2e_W41,It will definitely happen that a woman will be elected U.S. president in the next 30 years.
+487,HAPPEN2f_W41,It will definitely happen that a Hispanic person will be elected U.S. president in the next 30 years.
+488,HAPPEN2g_W41,It will definitely happen that most Americans will work into their 70s to have enough resources to retire in the next 30 years.
+489,HAPPEN2h_W41,"In the next 30 years, there will definitely be increasing violence against Jews in the U.S."
+490,NATDEBT_W41,"Over the next 30 years, it is most likely that the national debt will grow larger."
+491,ENVC_W41,"By the year 2050, the overall condition of the environment will be better than it is now."
+492,POPPROB_W41,"In 2050, population growth in the U.S. will be a major problem."
+493,FTRWORRYa_W41,"When considering the future of our country, one should be very worried about the overall soundness of our economic system."
+494,FTRWORRYb_W41,"When thinking about the future of our country, one should be very worried about the ability of public schools to provide a quality education."
+495,FTRWORRYc_W41,"When considering the future of our country, one should be very worried about the way the government in Washington works."
+496,FTRWORRYd_W41,"Thinking about the future of our country, there is a very high level of worry about the ability of political leaders to solve the country's biggest problems."
+497,FTRWORRYe_W41,"When considering the future of our country, one should be very worried about the moral values of Americans."
+498,FTRWORRYf_W41,"When considering the future of our country, one should be very worried about climate change."
+499,ELDCARE_W41,"Thinking ahead 30 years from now, it is more likely that adults ages 65 and older will be better prepared financially for retirement than older adults are today."
+500,ELDFINANCEF1_W41,Family members will be mostly responsible for paying for the long-term care older Americans may need.
+501,ELDFINANCEF2_W41,Family members should be mostly responsible for paying for the long-term care older Americans may need.
+502,GOVPRIOa_W41,Reducing the national debt should be a top priority to improve the quality of life for future generations.
+503,GOVPRIOb_W41,Increasing spending for education should be a top priority to improve the quality of life for future generations.
+504,GOVPRIOc_W41,"Providing high-quality, affordable health care to all Americans should be a top priority when deciding what the federal government should do to improve the quality of life for future generations."
+505,GOVPRIOd_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, increasing spending on scientific research should be a top priority."
+506,GOVPRIOe_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, reducing the gap between the rich and the poor should be a top priority."
+507,GOVPRIOfF1_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, reducing military spending should be a top priority."
+508,GOVPRIOgF1_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, reducing the number of undocumented immigrants coming into the U.S. should be a top priority."
+509,GOVPRIOhF1_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, reducing spending on Social Security, Medicare and Medicaid should be a top priority."
+510,GOVPRIOiF1_W41,"Increasing spending for roads, bridges, and other infrastructure should be a top priority when deciding what the federal government should do to improve the quality of life for future generations."
+511,GOVPRIOjF1_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, avoiding tax increases should be a top priority."
+512,GOVPRIOkF2_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, increasing military spending should be a top priority."
+513,GOVPRIOlF2_W41,"If one were deciding what the federal government should do to improve the quality of life for future generations, allowing more immigrants into the U.S. who come here legally should be a top priority."
+514,GOVPRIOmF2_W41,"Increasing spending on Social Security, Medicare, and Medicaid should be a top priority when deciding what the federal government should do to improve the quality of life for future generations."
+515,GOVPRIOnF2_W41,"Reducing spending for roads, bridges, and other infrastructure should be a top priority when deciding what the federal government should do to improve the quality of life for future generations."
+516,GOVPRIOoF2_W41,Dealing with climate change should be a top priority when deciding what the federal government should do to improve the quality of life for future generations.
+517,WRKTRN1F1_W41,"Over the next 30 years, the Government should be most responsible for making sure American workers have the right skills and training to get a good job."
+518,WRKTRN1F2_W41,"Over the next 30 years, the government should be most responsible for making sure young adults have the right skills and training to get a good job."
+519,JOBSECURITY_W41,"By the year 2050, the average working person in this country will have more job security."
+520,JOBBENEFITS_W41,"Over the next 30 years, the average working person in this country will have employee benefits, such as health insurance, paid vacations and retirement plans that are better than they are now."
+521,AUTOWKPLC_W41,"Overall, the automation of jobs through new technology in the workplace has mostly helped American workers."
+522,ROBWRK_W41,"Overall, it is definite that 30 years from now, robots and computers will do much of the work currently done by humans."
+523,ROBWRK2_W41,"If robots and computers do much of the work currently done by humans, it would be a very good thing for the country."
+524,ROBIMPACTa_W41,"If robots and computers perform most of the jobs currently being done by humans, it is likely that inequality between the rich and the poor would increase."
+525,ROBIMPACTb_W41,"If robots and computers perform most of the jobs currently being done by humans, it is likely that the economy would create many new, better-paying jobs for humans."
+526,LEGALIMG_W41,"In order to maintain the strength of the U.S. economy over the next 30 years, legal immigration needs to be increased."
+527,FUTRCLASSa_W41,"Over the next 30 years, the share of Americans who are upper class is likely to increase."
+528,FUTRCLASSb_W41,"Over the next 30 years, the share of Americans who are in the Middle Class is expected to increase."
+529,FUTRCLASSc_W41,"Over the next 30 years, the share of Americans who are lower class is likely to increase."
+530,HARASS1F1a_W41,"When it comes to sexual harassment and sexual assault in the workplace today, women claiming they have experienced sexual harassment or assault when it hasn't actually happened is a major problem."
+531,HARASS1F1b_W41,"When it comes to sexual harassment and sexual assault in the workplace today, employers firing men who have been accused of sexual harassment or assault before finding out is a major problem."
+532,HARASS1F1c_W41,"When it comes to sexual harassment and sexual assault in the workplace today, men getting away with committing sexual harassment or assault is a major problem."
+533,HARASS1F1d_W41,"When it comes to sexual harassment and sexual assault in the workplace today, women not being believed when they claim that they have experienced sexual harassment or assault is a major problem."
+534,HARASS1NOWRKF2a_W41,"When it comes to sexual harassment and sexual assault today, women claiming they have experienced sexual harassment or assault when it hasn't actually occurred is a major problem."
+535,HARASS1NOWRKF2c_W41,"When it comes to sexual harassment and sexual assault today, men getting away with committing sexual harassment or assault is a major problem."
+536,HARASS1NOWRKF2d_W41,"When it comes to sexual harassment and sexual assault today, women not being believed when they claim that they have experienced sexual harassment or assault is a major problem."
+537,HARASS3F1_W41,The increased focus on sexual harassment and assault has made it easier for men to know how to interact with women in the workplace.
+538,HARASS3NOWRKF2_W41,The increased focus on sexual harassment and assault has made it easier for men to know how to interact with women.
+539,ETHNCMAJMOD_W41,"According to the U.S. Census Bureau, by the year 2050, a majority of the population being made up of blacks, Asians, Hispanics, and other racial minorities will be a very good thing in terms of its impact on the country."
+540,AGEMAJ_W41,"According to the U.S. Census Bureau, by the year 2050, the number of people in the population who are 65 or older will outnumber people younger than 18. In terms of its impact on the country, this will be a very good thing."
+541,INTRMAR_W41,"According to the U.S. Census Bureau, the increasing trend of people of different races marrying each other these days than in the past is a very good thing in terms of its impact on the country."
+542,SSMONEY_W41,"When considering the future of the Social Security system upon retirement, it is believed that there will be enough money to provide benefits to older Americans at current levels."
+543,SSCUT_W41,"In considering the long-term future of Social Security, it is closer to my view that some reductions in benefits for future retirees will need to be made, even if this statement is not exactly right."
+544,FUTR_ABR_W41,"Thinking again about the year 2050, or 30 years from now, abortion will be legal with no restrictions."
+545,FUTR_DIV_W41,"By 2050, it is expected that people who are married will be more likely to get divorced than people are now."
+546,FUTR_M_W41,"By 2050, it is expected that people will be more likely to get married than they are now."
+547,FUTR_K_W41,"By 2050, it is expected that people will be more likely to have children than they are now."
+548,SOLVPROBa_W41,"In the future, science and technology will have a very positive impact in solving the biggest problems facing the country."
+549,SOLVPROBb_W41,"In the future, major corporations will have a very positive impact in solving the biggest problems facing the country."
+550,SOLVPROBc_W41,"In the future, religious groups will have a very positive impact in solving the biggest problems facing the country."
+551,SOLVPROBdF1_W41,"In the future, the government in Washington will have a very positive impact in solving the biggest problems facing the country."
+552,SOLVPROBeF2_W41,"In the future, state and local government will have a very positive impact in solving the biggest problems facing the country."
+553,SOLVPROBf_W41,"In the future, the news media will have a very positive impact in solving the biggest problems facing the country."
+554,SOLVPROBg_W41,"In the future, the military will have a very positive impact in solving the biggest problems facing the country."
+555,SOLVPROBh_W41,"In the future, colleges and universities will have a very positive impact in solving the biggest problems facing the country."
+556,SOLVPROBi_W41,"In the future, public K-12 schools will have a very positive impact in solving the biggest problems facing the country."
+557,PAST_W42,"Compared to twenty years ago, developments in science have made people's lives better."
+558,FUTURE_W42,"Looking ahead to the next twenty years, developments in science will make people's lives better."
+559,SC1_W42,"Overall, science has had a mostly positive effect on our society."
+560,CONFa_W42,Elected officials act in the best interests of the public.
+561,CONFb_W42,The news media acts in the best interests of the public.
+562,CONFc_W42,The military acts in the best interests of the public.
+563,CONFd_F1_W42,Medical scientists act in the best interests of the public.
+564,CONFd_F2_W42,Scientists act in the best interests of the public.
+565,CONFe_W42,Religious leaders act in the best interests of the public.
+566,CONFf_W42,Public school principals for grades K-12 act in the best interests of the public.
+567,CONFg_W42,Business leaders act in the best interests of the public.
+568,POLICY1_W42,"Scientists should take an active role in public policy debates about scientific issues, even if neither view is exactly right."
+569,POLICY2_W42,Public opinion should play an important role to guide policy decisions about scientific issues.
+570,POLICY3_W42,"In general, it can be said that scientific experts are usually better at making good policy decisions about scientific issues than other people."
+571,RQ4_F1Aa_W42,"When thinking about medical research scientists, they do a good job conducting research all or most of the time."
+572,RQ4_F1Ab_W42,Medical research scientists provide fair and accurate information when making statements about their research all or most of the time.
+573,RQ4_F1Ac_W42,Medical research scientists admit mistakes and take responsibility for them all or most of the time.
+574,RQ4_F1Ad_W42,Medical research scientists are transparent about potential conflicts of interest with industry groups in their research all or most of the time.
+575,RQ4_F1Ae_W42,Medical research scientists care about the best interests of the public all or most of the time.
+576,RQ5_F1A_W42,"Overall, research misconduct by medical research scientists is a very big problem."
+577,RQ6_F1A_W42,"When one hears or reads news stories about research misconduct by medical research scientists, these cases should be thought of as isolated incidents."
+578,RQ7_F1A_W42,"When discussing problems with research misconduct among medical research scientists, most medical research scientists have good intentions, and it's the research system that's broken."
+579,RQ8_F1A_W42,Medical research scientists face serious consequences if they engage in research misconduct all or most of the time.
+580,RQ4_F1Ba_W42,Environmental research scientists do a good job conducting research all or most of the time.
+581,RQ4_F1Bb_W42,Environmental research scientists provide fair and accurate information when making statements about their research all or most of the time.
+582,RQ4_F1Bc_W42,Environmental research scientists admit mistakes and take responsibility for them all or most of the time.
+583,RQ4_F1Bd_W42,Environmental research scientists are transparent about potential conflicts of interest with industry groups in their research all or most of the time.
+584,RQ4_F1Be_W42,Environmental research scientists care about the best interests of the public all or most of the time.
+585,RQ5_F1B_W42,"Overall, research misconduct by environmental research scientists is a very big problem."
+586,RQ6_F1B_W42,"When one hears or reads news stories about research misconduct by environmental research scientists, these cases should be thought of as isolated incidents."
+587,RQ7_F1B_W42,"When problems with research misconduct among environmental research scientists are mentioned, it is closer to the view that most environmental research scientists have good intentions, and it's the research system that's broken."
+588,RQ8_F1B_W42,Environmental research scientists face serious consequences all or most of the time if they engage in research misconduct.
+589,RQ3_F1Ca_W42,What is known about nutrition research scientists is because one knows someone who does this.
+590,RQ3_F1Cb_W42,What one knows about nutrition research scientists is because they learned about this in school.
+591,RQ3_F1Cc_W42,What one knows about nutrition research scientists is because they learned about this in their job.
+592,RQ3_F1Cd_W42,What is known about nutrition research scientists is because one has heard or read about this in the news.
+593,RQ4_F1Ca_W42,"When thinking about nutrition research scientists, they do a good job conducting research all or most of the time."
+594,RQ4_F1Cb_W42,"When making statements about their research, nutrition research scientists provide fair and accurate information all or most of the time."
+595,RQ4_F1Cc_W42,Nutrition research scientists admit mistakes and take responsibility for them all or most of the time.
+596,RQ4_F1Cd_W42,"When thinking about nutrition research scientists, they are transparent about potential conflicts of interest with industry groups in their research all or most of the time."
+597,RQ4_F1Ce_W42,Nutrition research scientists care about the best interests of the public all or most of the time.
+598,RQ5_F1C_W42,"Overall, research misconduct by nutrition research scientists is a very big problem."
+599,RQ6_F1C_W42,"When one hears or reads news stories about research misconduct by nutrition research scientists, these cases should be thought of as isolated incidents."
+600,RQ7_F1C_W42,"When problems with research misconduct among nutrition research scientists are mentioned, it is closer to the view that most nutrition research scientists have good intentions, and it's the research system that's broken."
+601,RQ8_F1C_W42,Nutrition research scientists face serious consequences if they engage in research misconduct all or most of the time.
+602,PQ3_F2Aa_W42,What one knows about medical doctors is because they know someone who does this.
+603,PQ3_F2Ab_W42,What one knows about medical doctors is because they learned about this in school.
+604,PQ3_F2Ac_W42,What one knows about medical doctors is because they learned about this in their job.
+605,PQ3_F2Ad_W42,What is known about medical doctors is because one has heard or read about this in the news.
+606,PQ4_F2Aa_W42,Medical doctors do a good job providing diagnoses and treatment recommendations all or most of the time.
+607,PQ4_F2Ab_W42,"When making recommendations, medical doctors provide fair and accurate information all or most of the time."
+608,PQ4_F2Ac_W42,"When considering medical doctors, they admit mistakes and take responsibility for them all or most of the time."
+609,PQ4_F2Ad_W42,"When thinking about medical doctors, they are transparent about potential conflicts of interest with industry groups in their work all or most of the time."
+610,PQ4_F2Ae_W42,Medical doctors care about the best interests of their patients all or most of the time.
+611,PQ5_F2A_W42,"Overall, professional misconduct by medical doctors is a very big problem."
+612,PQ6_F2A_W42,"When one hears or reads news stories about professional misconduct by medical doctors, these cases should be thought of as isolated incidents."
+613,PQ7_F2A_W42,"When it comes to problems with professional misconduct among medical doctors, the view that most medical doctors have good intentions and it's the system that's broken, comes closer to the truth, even if neither is exactly right."
+614,PQ8_F2A_W42,Medical doctors face serious consequences all or most of the time if they engage in professional misconduct.
+615,PQ3_F2Ba_W42,What one knows about environmental health specialists is because they know someone who does this.
+616,PQ3_F2Bb_W42,What is known about environmental health specialists is because it was learned about this in school.
+617,PQ3_F2Bc_W42,What is known about environmental health specialists is because it was learned about this in one's job.
+618,PQ3_F2Bd_W42,What is known about environmental health specialists is because one has heard or read about this in the news.
+619,PQ4_F2Ba_W42,Environmental health specialists do a good job providing recommendations about how to address risks to human health from the environment all or most of the time.
+620,PQ4_F2Bb_W42,Environmental health specialists provide fair and accurate information when making recommendations all or most of the time.
+621,PQ4_F2Bc_W42,Environmental health specialists admit mistakes and take responsibility for them all or most of the time.
+622,PQ4_F2Bd_W42,Environmental health specialists are transparent about potential conflicts of interest with industry groups in their work all or most of the time.
+623,PQ4_F2Be_W42,Environmental health specialists care about the best interests of people in the community all or most of the time.
+624,PQ5_F2B_W42,"Overall, professional misconduct by environmental health specialists is a very big problem."
+625,PQ6_F2B_W42,"When one hears or reads news stories about professional misconduct by environmental health specialists, these cases should be thought of as isolated incidents."
+626,PQ7_F2B_W42,"When problems with professional misconduct among environmental health specialists are heard about, the view that most environmental health specialists have good intentions and it's the system that's broken, comes closer to being right."
+627,PQ8_F2B_W42,Environmental health specialists face serious consequences for professional misconduct all or most of the time.
+628,PQ3_F2Ca_W42,What is known about dietitians is because one knows someone who does this.
+629,PQ3_F2Cb_W42,What is known about dietitians is because it was learned about in school.
+630,PQ3_F2Cc_W42,What one knows about dietitians is because they learned about this in their job.
+631,PQ3_F2Cd_W42,What is known about dietitians is because one has heard or read about this in the news.
+632,PQ4_F2Ca_W42,Dietitians do a good job of providing recommendations about healthy eating all or most of the time.
+633,PQ4_F2Cb_W42,Dietitians provide fair and accurate information when making recommendations all or most of the time.
+634,PQ4_F2Cc_W42,Dietitians admit mistakes and take responsibility for them all or most of the time.
+635,PQ4_F2Cd_W42,Dietitians are transparent about potential conflicts of interest with industry groups in their work all or most of the time.
+636,PQ4_F2Ce_W42,Dietitians care about the best interests of their patients all or most of the time.
+637,PQ5_F2C_W42,"Overall, professional misconduct by dietitians is a very big problem."
+638,PQ6_F2C_W42,"When one hears or reads news stories about professional misconduct by dietitians, these cases should be thought of as isolated incidents."
+639,PQ7_F2C_W42,"When problems with professional misconduct among dietitians are mentioned, it is closer to the view that most dietitians have good intentions and it's the system that's broken."
+640,PQ8_F2C_W42,Dietitians face serious consequences for professional misconduct all or most of the time.
+641,SCM4a_W42,Scientific research that has immediate practical applications is essential for society.
+642,SCM4b_W42,"Scientific research that advances knowledge, even if there are no immediate benefits, is essential for society."
+643,Q6F1_W42,"When scientific research findings are reviewed by an independent committee, this makes one trust the research findings more."
+644,Q7F1_W42,"When one hears that data used in scientific research is being made openly available to the public, it should make them trust the research findings more."
+645,Q8F1_W42,"When one hears about scientific research that has been funded by the federal government, it should make them trust the research findings more."
+646,Q9F1_W42,"When one hears about scientific research that has been funded by an industry group, it should make them trust the research findings more."
+647,Q6F2_W42,"When one hears that a science practitioner's recommendation is based on a review from an independent committee, it should make them trust the recommendation more."
+648,Q7F2_W42,"When a science practitioner is open to getting a second opinion on their recommendation, it makes one trust the recommendation more."
+649,Q8F2_W42,"When one hears that a science practitioner has received financial incentives from the federal government related to their work, it should make them trust the recommendation more."
+650,Q9F2_W42,"When one hears that a science practitioner has received financial incentives from an industry group related to their work, it should make them trust the recommendation more."
+651,SCM5a_W42,"In general, the statement that most research scientists are intelligent describes them well."
+652,SCM5b_W42,"In general, the statement that most research scientists are good communicators describes them well."
+653,SCM5c_W42,"In general, the statement that research scientists are focused on solving real-world problems describes them well."
+654,SCM5d_W42,"In general, the statement that most research scientists are close-minded describes them well."
+655,SCM5e_W42,"In general, the statement that most research scientists don't pay attention to the moral values of society describes them well."
+656,SCM5f_W42,"In general, the statement that most research scientists are honest describes them well."
+657,SCM5g_W42,"In general, the statement that most research scientists are skilled at working in teams describes them well."
+658,SCM5h_W42,"In general, the statement that research scientists are cold describes them well."
+659,SCM5i_W42,"In general, the statement that most research scientists are socially awkward describes them well."
+660,SCM5j_W42,"In general, the statement that research scientists feel superior to others describes them well."
+661,SCM2_W42,The scientific method generally produces accurate conclusions.
+662,SCM3_W42,Scientists make judgments based solely on the facts.
+663,POP1_W42,Ordinary people would do a better job solving the country's problems than elected officials.
+664,POP2_W42,"In general, most of the important policy decisions in this country are made with a great deal of concern for how the policies affect people like us."
+665,POP3_W42,"The better way to solve the country's most pressing problems, even if neither is exactly right, is to rely more on people who are considered experts about the problems, even if they don't have much practical experience."
+666,ADMISSIONa_W43,Race or ethnicity should be a major factor in college admissions.
+667,ADMISSIONb_W43,Gender should be a major factor in college admissions.
+668,ADMISSIONc_W43,A relative attending the school should be a major factor in college admissions.
+669,ADMISSIONd_W43,Athletic ability should be a major factor in college admissions.
+670,ADMISSIONe_W43,Involvement in community service should be a major factor in college admissions.
+671,ADMISSIONf_W43,"Scores on standardized tests, such as the SAT or ACT, should be a major factor in college admissions."
+672,ADMISSIONg_W43,High school grades should be a major factor in college admissions.
+673,ADMISSIONh_W43,Being the first person in the family to go to college should be a major factor in college admissions.
+674,RACESURV2_W43,"The U.S. population, being made up of people of many different races and ethnicities, is very good for the country."
+675,RACESURV3_W43,"In general, the fact that the U.S. population is made up of people of many different races and ethnicities makes it easier for policymakers to solve the country's problems."
+676,RACESURV4_W43,"In general, the fact that the U.S. population is made up of people of many different races and ethnicities has a positive impact on the country's culture."
+677,RACESURV5a_W43,"Overall, being white helps a lot in people's ability to get ahead in our country these days."
+678,RACESURV5b_W43,"Overall, being black helps a lot in people's ability to get ahead in our country these days."
+679,RACESURV5c_W43,"Overall, being Hispanic helps a lot in people's ability to get ahead in our country these days."
+680,RACESURV5d_W43,"Overall, being Asian helps a lot in people's ability to get ahead in our country these days."
+681,RACESURV5e_W43,Being Native American helps a lot in people's ability to get ahead in our country these days.
+682,RACESURV5f_W43,"Overall, being Jewish helps a lot in people's ability to get ahead in our country these days."
+683,RACESURV5g_W43,"Overall, being Muslim helps a lot in people's ability to get ahead in our country these days."
+684,RACESURV5h_W43,Being an evangelical Christian helps a lot in people's ability to get ahead in our country these days.
+685,RACESURV5i_W43,"Overall, being a man helps a lot in people's ability to get ahead in our country these days."
+686,RACESURV5j_W43,"Overall, being a woman helps a lot in people's ability to get ahead in our country these days."
+687,RACESURV5k_W43,"Overall, being poor helps a lot in people's ability to get ahead in our country these days."
+688,RACESURV5l_W43,Being wealthy helps a lot in people's ability to get ahead in our country these days.
+689,RACESURV6_W43,"When it comes to racial discrimination, the bigger problem for the country today is people seeing racial discrimination where it really does not exist."
+690,RACESURV10_W43,Race relations in the United States are generally good.
+691,RACESURV11_W43,Race relations in the United States are getting better.
+692,RACESURV12_W43,"When it comes to giving black people equal rights with whites, our country has gone too far."
+693,RACESURV13_W43,It is very likely that black people in our country will eventually have equal rights with whites.
+694,RACATTN_W43,"In general, there is too much attention paid to race and racial issues in our country these days."
+695,RACESURV14_W43,President Trump has made progress toward improving race relations.
+696,RACESURV15a_W43,"Since President Trump was elected, it has become more common for people to express racist or racially insensitive views."
+697,RACESURV15b_W43,"Since President Trump was elected, it has become more acceptable for people to express racist or racially insensitive views."
+698,RACESURV16_W43,"When it comes to improving race relations, it is more important for people to focus on the unique experiences of different racial and ethnic groups."
+699,RACESURV17_W43,The legacy of slavery affects the position of black people in American society today a great deal.
+700,RACESURV18a_W43,"In terms of race and race relations in the U.S., Whites and Hispanics get along with each other very well in our society these days."
+701,RACESURV18b_W43,"In general, when considering race and race relations in the U.S., Blacks and Hispanics get along with each other very well in our society these days."
+702,RACESURV18c_W43,"In terms of race and race relations in the U.S., blacks and whites get along with each other very well in our society these days."
+703,RACESURV18d_W43,"In general, when considering race and race relations in the U.S., Whites and Asians get along with each other very well in our society these days."
+704,RACESURV18e_W43,"In terms of race and race relations in the U.S., Blacks and Asians get along with each other very well in our society these days."
+705,RACESURV18f_W43,"In general, when considering race and race relations in the U.S., Hispanics and Asians get along with each other very well in our society these days."
+706,RACESURV19a_W43,Racial discrimination is a major reason why black people in our country may have a harder time getting ahead than white people.
+707,RACESURV19b_W43,Lack of motivation to work hard is a major reason why black people in our country may have a harder time getting ahead than white people.
+708,RACESURV19c_W43,Less access to good quality schools is a major reason why black people in our country may have a harder time getting ahead than white people.
+709,RACESURV19d_W43,Lack of good role models is a major reason why black people in our country may have a harder time getting ahead than white people.
+710,RACESURV19e_W43,Less access to high-paying jobs is a major reason why black people in our country may have a harder time getting ahead than white people.
+711,RACESURV19f_W43,Family instability is a major reason why black people in our country may have a harder time getting ahead than white people.
+712,RACESURV24_W43,What happens to white people in the country overall affects my own life a lot.
+713,RACESURV25_W43,What happens to black people in the country overall affects my own life a lot.
+714,RACESURV26_W43,What happens to Hispanics in the country overall affects my own life a lot.
+715,RACESURV27_W43,What happens to Asians in the country overall affects my own life a lot.
+716,IDIMPORT_W43,Being white is extremely important to how one thinks about oneself.
+717,IDIMPORT_W43,Being black is extremely important to one's self-perception.
+718,IDIMPORT_W43,Being Hispanic is extremely important to how one thinks about oneself.
+719,IDIMPORT_W43,Being Asian is extremely important to one's self-perception.
+720,IDIMPORT_W43,One's racial background is extremely important to how they think about themselves.
+721,RACESURV28a_W43,"Black people are treated less fairly than white people in hiring, pay, and promotions situations."
+722,RACESURV28b_W43,Black people are treated less fairly than white people in stores or restaurants situations.
+723,RACESURV28c_W43,Black people are treated less fairly than white people when applying for a loan or mortgage situations.
+724,RACESURV28d_W43,Black people are treated less fairly than white people in dealing with the police situations.
+725,RACESURV28e_W43,Black people are treated less fairly than white people in the criminal justice system situations.
+726,RACESURV28f_W43,Black people are treated less fairly than white people when voting in elections.
+727,RACESURV28g_W43,Black people are treated less fairly than white people when seeking medical treatment situations.
+728,RACESURV40_W43,All or most white people in our country are prejudiced against black people.
+729,RACESURV41_W43,All or most white people in our country would confront a white friend or family member if they made a racist or racially insensitive comment or joke about people who are black.
+730,RACESURV44_W43,All or most black people in our country are prejudiced against white people.
+731,RACESURV45_W43,All or most black people in our country would confront a black friend or family member if they made a racist or racially insensitive comment or joke about people who are white.
+732,RACESURV47a_W43,A sports team using Native American tribal names or images as mascots is always acceptable.
+733,RACESURV47b_W43,"Personally, it is always acceptable for a black person to use the n-word."
+734,RACESURV47c_W43,A white person using the n-word is always acceptable.
+735,RACESURV47d_W43,Casting an actor to play a character of a race or ethnicity other than their own is always acceptable.
+736,RACESURV47e_W43,A person wearing traditional dress from a country or culture other than their own as part of a Halloween costume is always acceptable.
+737,RACESURV47f_W43,A white person using makeup to darken their skin so they appear to be a different race as part of a Halloween costume is always acceptable.
+738,RACESURV48_W43,Promoting racial and ethnic diversity in companies and organizations is very important.
+739,RACESURV49_W43,"When it comes to decisions about hiring and promotions, companies and organizations should take a person's race and ethnicity into account, in addition to their qualifications, in order to increase diversity."
+740,RACESURV50_W43,"When it comes to the schools students attend, they should go to schools that are racially and ethnically mixed, even if it means that some students don't go to school in their local community."
+741,RACESURV52_W43,Hearing people speak a language other than English in a public place is upsetting.
+742,INFOCONFUSEb_W45,Satire about an issue or event leaves Americans a great deal confused about the basic facts of current issues and events.
+743,INFOCONFUSEc_W45,Breaking information that is published before everything is verified leaves Americans a great deal confused about the basic facts of current issues and events.
+744,INFOCONFUSEd_W45,Factual information presented to favor one side of an issue leaves Americans a great deal confused about the basic facts of current issues and events.
+745,INFOCONFUSEe_W45,A video or image that is altered or made up misleads the public and leaves Americans confused about the basic facts of current issues and events a great deal.
+746,INFOKNOWa_W45,The average American should be able to recognize made-up information that is intended to mislead the public.
+747,INFOKNOWb_W45,The average American should be able to recognize satire about an issue or event.
+748,INFOKNOWc_W45,The average American should be able to recognize breaking information that is published before everything is verified.
+749,INFOKNOWd_W45,The average American should be able to recognize factual information presented to favor one side of an issue.
+750,INFOKNOWe_W45,The average American should be able to recognize a video or image that is altered or made up to mislead the public.
+751,INFOOWNa_W45,It easy to recognize made-up information that is intended to mislead the public.
+752,INFOOWNb_W45,Recognizing satire about an issue or event is easy.
+753,INFOOWNc_W45,It easy to recognize breaking information that is published before everything is verified.
+754,INFOOWNd_W45,Recognizing factual information presented to favor one side of an issue is easy.
+755,INFOOWNe_W45,Recognizing a video or image that is altered or made up to mislead the public is easy.
+756,INFORESTRICTa_W45,The freedom to publish and access made-up information that is intended to mislead the public should be protected.
+757,INFORESTRICTb_W45,The freedom to publish and access satire about an issue or event should be protected.
+758,INFORESTRICTc_W45,The freedom to publish and access breaking information that is published before everything is verified should be protected.
+759,INFORESTRICTd_W45,The freedom to publish and access factual information presented to favor one side of an issue should be protected.
+760,INFORESTRICTe_W45,The freedom to publish and access altered or made-up videos or images that mislead the public should be protected.
+761,INFOWHYa_W45,Making money is a major reason why made-up news and information is created.
+762,INFOWHYb_W45,Pushing an agenda or viewpoint is a major reason why made-up news and information is created.
+763,INFOWHYc_W45,Fame is a major reason why made-up news and information is created.
+764,INFOWHYd_W45,Being funny is a major reason why made-up news and information is created.
+765,INFOCREATEa_W45,Journalists create a lot of made-up news and information.
+766,INFOCREATEb_W45,A lot of made-up news and information is created by political leaders and their staff.
+767,INFOCREATEc_W45,A lot of made-up news and information is created by members of the public.
+768,INFOCREATEd_W45,A lot of made-up news and information is created by foreign-based individuals or groups.
+769,INFOCREATEe_W45,Activist groups create a lot of made-up news and information.
+770,MADEUPOFT_W45,One often comes across made-up news and information that is intended to mislead the public.
+771,MADEUPSHAREWHY_W45,The main reason for sharing news and information known to be made-up is because it was thought to be surprising or entertaining.
+772,MADEUPTOPICa_W45,A lot of made-up news and information is created about politics and election topics.
+773,MADEUPTOPICb_W45,A lot of made-up news and information is created about entertainment and celebrity topics.
+774,MADEUPTOPICc_W45,A lot of made-up news and information is created about science and technology topics.
+775,MADEUPTOPICd_W45,A lot of made-up news and information is created about Health and medicine topics.
+776,MADEUPTOPICe_W45,"A lot of made-up news and information is created about emergencies, such as shootings or natural disasters topics."
+777,MADEUPTOPICf_W45,A lot of made-up news and information is created about business and finance topics.
+778,MADEUPLEVELa_W45,"A lot of made-up news and information is created about National issues, events, and public figures."
+779,MADEUPLEVELb_W45,"A lot of made-up news and information is created about local issues, events, and public figures."
+780,MADEUPIMPa_W45,"Overall, made-up news and information has a big impact on Americans' confidence in government institutions."
+781,MADEUPIMPb_W45,"Overall, made-up news and information has a big impact on Americans' confidence in each other."
+782,MADEUPIMPc_W45,"Overall, made-up news and information has a big impact on political leaders' ability to get work done."
+783,MADEUPIMPd_W45,"Overall, made-up news and information has a big impact on journalists' ability to get the information they need for their stories."
+784,MADEUPIMPe_W45,"Overall, made-up news and information has a big impact on the public's ability to solve community problems."
+785,NEWSPROBa_W45,The amount of made-up news and information is a very big problem when it comes to how the public stays informed about the basic facts of current issues and events.
+786,NEWSPROBb_W45,The public's difficulty in distinguishing facts from opinions when staying informed about the basic facts of current issues and events is a very big problem.
+787,NEWSPROBc_W45,Having too many different sources to choose from when it comes to how the public stays informed about the basic facts of current issues and events is a very big problem.
+788,NEWSPROBd_W45,Too much news to keep up with is a very big problem when it comes to how the public stays informed about the basic facts of current issues and events.
+789,NEWSPROBe_W45,Journalists inserting their own views when it comes to how the public stays informed about the basic facts of current issues and events is a very big problem.
+790,VIDOFT_W45,One often comes across videos or images that have been altered or made-up to mislead the public.
+791,MADEUPSOLVE_W45,"Within the next five years, the issue of made-up news and information will get better."
+792,INFOCHALa_W45,Political divides pose a very big challenge in addressing made-up news and information.
+793,INFOCHALb_W45,The public's lack of effort in addressing made-up news and information is a very big challenge.
+794,INFOCHALc_W45,Low awareness of current events is a very big challenge in addressing made-up news and information.
+795,INFOCHALd_W45,Digital technology poses a very big challenge in addressing made-up news and information.
+796,INFOCHALe_W45,The ability to make money from it presents a very big challenge in addressing made-up news and information.
+797,RESTRICTWHO_W45,The government has the most responsibility to reduce the amount of made-up news and information.
+798,FCFAIR_W45,Different organizations and news outlets that have taken on fact-checking efforts deal fairly with all sides.
+799,WATCHDOG_1_W45,Criticizing leaders by news organizations keeps political leaders from doing their job.
+800,WATCHDOG_3_W45,"In presenting the news dealing with political and social issues, news organizations deal fairly with all sides."
+801,TRACKCO1a_W49,"As far as it is known, all or almost all of what one does online or on their cellphone is being tracked by advertisers, technology firms, or other companies."
+802,TRACKCO1b_W49,"As far as it is known, all or almost all of what one does offline like where they are or who they are talking to is being tracked by advertisers, technology firms or other companies."
+803,CONCERNCO_W49,One should be very concerned about how companies are using the data they collect about them.
+804,BENEFITCO_W49,One personally benefits a great deal from the data that companies collect about them.
+805,CONTROLCO_W49,One has a great deal of control over the data that companies collect about them.
+806,POSNEGCO_W49,"On balance, the benefits one gets from companies collecting data about them outweigh the potential risks."
+807,ANONYMOUS1CO_W49,It is possible to go about daily life today without having companies collect data about you.
+808,TRACKGOV1a_W49,"As far as it is known, all or almost all of what one does online or on their cellphone is being tracked by the government."
+809,TRACKGOV1b_W49,"As far as it is known, all or almost all of what one does offline like where they are or who they are talking to is being tracked by the government."
+810,CONCERNGOV_W49,One should be very concerned about how the government is using the data it collects about them.
+811,BENEFITGOV_W49,One personally benefits a great deal from the data the government collects about them.
+812,CONTROLGOV_W49,One has a great deal of control over the data the government collects about them.
+813,POSNEGGOV_W49,"On balance, the benefits the government can provide by collecting data about me and others outweigh the potential risks."
+814,ANONYMOUS1GOV_W49,It is possible to go about daily life today without having the government collect data about you.
+815,CONCERNGRPa_W49,One should be very concerned about how much personal information law enforcement agencies might know about them.
+816,CONCERNGRPb_W49,One should be very concerned about how much personal information advertisers might know about them.
+817,CONCERNGRPc_W49,One should be very concerned about how much personal information their employer might know about them.
+818,CONCERNGRPd_W49,One should be very concerned about how much personal information the companies they buy things from might know about them.
+819,CONCERNGRPe_W49,One should be very concerned about how much personal information their friends and family might know about them.
+820,CONCERNGRPf_W49,One should be very concerned about how much personal information the social media sites they use might know about them.
+821,CONTROLGRPa_W49,One has a lot of control over who can access their posts and activities on social media.
+822,CONTROLGRPb_W49,One has a lot of control over who can access the search terms used online.
+823,CONTROLGRPc_W49,"One has a lot of control over who can access the purchases made, either online or in person."
+824,CONTROLGRPd_W49,One has a lot of control over who can access their physical location over the internet.
+825,CONTROLGRPe_W49,One has a lot of control over who can access the websites they visit.
+826,CONTROLGRPf_W49,One has a lot of control over who can access the private conversations they've had online or using text messaging.
+827,PP2_W49,One should always read a company's privacy policy before agreeing to it.
+828,PP3_W49,"When reading a privacy policy, one should typically read it all the way through."
+829,PP5a_W49,One should be very confident that companies will follow what their privacy policies say they will do with personal information.
+830,PP5b_W49,One should be very confident that companies will promptly notify them if their personal data has been misused or compromised.
+831,PP5c_W49,One can be very confident that companies will publicly admit mistakes and take responsibility when they misuse or compromise their users' personal data.
+832,PP5d_W49,One can be very confident that companies will use personal information in ways that are comfortable.
+833,PP5e_W49,One should be very confident that companies will be held accountable by the government if they misuse or compromise your data.
+834,PP6a_W49,One should be very comfortable with companies using personal data to help improve their fraud prevention systems.
+835,PP6b_W49,One should be very comfortable with companies using personal data and sharing it with outside groups doing research that might help improve society.
+836,PP6c_W49,One should be very comfortable with companies using their personal data to help them develop new products.
+837,PRIVACYREG_W49,One should understand the laws and regulations that are currently in place to protect data privacy a great deal.
+838,GOVREGV1_W49,There should be more government regulation of what companies can do with their customers' personal information.
+839,GOVREGV2_W49,The more effective way to safeguard people's personal information would be by providing better tools for allowing people to control their personal information themselves.
+840,PUBLICDATA_W49,"Today, a wide range of information about people is searchable online. It is more important for people to have the ability to discover potentially useful information about others."
+841,RTBFa_W49,"All Americans should have the right to have data collected by law enforcement, such as criminal records or mugshots, removed from public online search results."
+842,RTBFb_W49,All Americans should have the right to remove information about their employment history or work record from public online search results.
+843,RTBFc_W49,All Americans should have the right to have negative media coverage removed from public online search results.
+844,RTBFd_W49,All Americans should have the right to have potentially embarrassing photos or videos removed from public online search results.
+845,RTDa_W49,"All Americans should have the right to have data about themselves, such as criminal records or mugshots collected by law enforcement, permanently deleted by the people or organizations who have that information."
+846,RTDb_W49,All Americans should have the right to have potentially embarrassing photos or videos about themselves permanently deleted by the people or organizations who have that information.
+847,RTDc_W49,"All Americans should have the right to have their medical data, collected by a health provider, permanently deleted by the people or organizations who have that information."
+848,RTDd_W49,"All Americans should have the right to have their financial data, collected by their tax preparer, permanently deleted by the people or organizations who have that information."
+849,DATAUSEa_W49,The government collecting data about all Americans to assess who might be a potential terrorist threat is acceptable.
+850,DATAUSEb_W49,It is acceptable for poorly performing schools to share data about their students with a nonprofit group seeking to help improve educational outcomes.
+851,DATAUSEc_W49,The use of data/information by DNA testing companies to share their customers' genetic data with law enforcement agencies in order to help solve crimes is acceptable.
+852,DATAUSEd_W49,"The use of data/information by makers of a fitness tracking app, who share their users' data with medical researchers seeking to better understand the link between exercise and heart disease, is acceptable."
+853,DATAUSEe_W49,"The use of data/information by a social media company to monitor its users' posts for signs of depression, in order to identify people who are at risk of self-harm and connect them to counsel, is acceptable."
+854,DATAUSEf_W49,It is acceptable for makers of smart speakers to share audio recordings of their customers with law enforcement to help with criminal investigations.
+855,FACE1_W49,One has heard or read a lot about the development of automated facial recognition technology that can identify someone based on a picture or video that includes their face.
+856,FACE3a_W49,Advertisers are trusted a great deal to use facial recognition technology responsibly.
+857,FACE3b_W49,Technology companies can be trusted a great deal to use facial recognition technology responsibly.
+858,FACE3c_W49,Law enforcement agencies should be trusted a great deal to use facial recognition technology responsibly.
+859,FACE4a_W49,It is acceptable for law enforcement agencies to use facial recognition technology to assess potential security threats in public spaces.
+860,FACE4b_W49,It is acceptable for companies to automatically track the attendance of their employees using facial recognition technology.
+861,FACE4c_W49,It is acceptable for advertisers to use facial recognition technology to see how people respond to public advertising displays.
+862,FACE4d_W49,It is acceptable for apartment building landlords to use facial recognition technology to track who enters or leaves their buildings.
+863,FAMSURV2Ma_W50,"In general, being married is essential for a man to live a fulfilling life."
+864,FAMSURV2Mb_W50,"In general, being in a committed romantic relationship is essential for a man to live a fulfilling life."
+865,FAMSURV2Mc_W50,"In general, having children is essential for a man to live a fulfilling life."
+866,FAMSURV2Md_W50,"In general, having a job or career they enjoy is essential for a man to live a fulfilling life."
+867,FAMSURV2Me_W50,"In general, having a lot of money is essential for a man to live a fulfilling life."
+868,FAMSURV2Wa_W50,"In general, being married is essential for a woman to live a fulfilling life."
+869,FAMSURV2Wb_W50,Being in a committed romantic relationship is essential for a woman to live a fulfilling life.
+870,FAMSURV2Wc_W50,"In general, having children is essential for a woman to live a fulfilling life."
+871,FAMSURV2Wd_W50,"In general, having a job or career they enjoy is essential for a woman to live a fulfilling life."
+872,FAMSURV2We_W50,"In general, having a lot of money is essential for a woman to live a fulfilling life."
+873,FAMSURV3_W50,"It is acceptable for an unmarried couple to live together, even if they don't plan to get married."
+874,FAMSURV4_W50,Society is better off if couples who want to stay together long-term eventually get married.
+875,FAMSURV5a_W50,"In general, an unmarried person living with a partner has it easier when it comes to achieving being financially secure goals."
+876,FAMSURV5b_W50,"In general, an unmarried person living with a partner has it easier when it comes to achieving having a fulfilling sex life goals."
+877,FAMSURV5c_W50,"In general, an unmarried person living with a partner has it easier when it comes to achieving social status goals."
+878,FAMSURV5d_W50,"In general, an unmarried person living with a partner has it easier when it comes to achieving happiness goals."
+879,FAMSURV6_W50,"One should strongly favor allowing unmarried couples to enter into legal agreements that would give them the same rights as married couples when it comes to things like health insurance, inheritance or tax benefits."
+880,FAMSURV7_W50,"Compared to couples who don't live together before marriage, couples who do live together before marriage have a better chance of having a successful marriage."
+881,FAMSURV8_W50,Couples who are married do a better job raising children than couples who are living together but are not married.
+882,FAMSURV9a_W50,It is very important for a person to be financially stable before getting married.
+883,FAMSURV9b_W50,It is very important for a person to have a steady job before getting married.
+884,FAMSURV9c_W50,It is very important for a person to buy a house before getting married.
+885,FAMSURV9e_W50,It is very important for a person to be completely committed to their partner before getting married.
+886,FAMSURV10a_W50,"If a person decides to move in with a partner without being married, it is very important for that person to be financially stable before moving in with their partner."
+887,FAMSURV10b_W50,"If a person decides to move in with a partner without being married, it is very important for that person to have a steady job before moving in with their partner."
+888,FAMSURV10c_W50,"If a person decides to move in with a partner without being married, it is very important for that person to buy a house before moving in with their partner."
+889,FAMSURV10e_W50,"If a person decides to move in with a partner without being married, it is very important for that person to be completely committed to their partner before moving in with them."
+890,FAMSURV11W_W50,The ideal situation for women with young children is working full-time for pay.
+891,FAMSURV11M_W50,The ideal situation for men with young children is working full-time for pay.
+892,FAMSURV12_W50,Parents of young adults ages 18 to 29 do too much for their adult children.
+893,FAMSURV17_W50,"When considering the adults in one's life, the person they should feel closest to is their spouse."
+894,FAMSURV20_W50,"When one starts living with their partner, it should be thought of as a step toward marriage."
+895,FAMSURV21_W50,One should be engaged to their partner before moving in together.
+896,FAMSURV34A_W50,Being a working parent makes it easier to advance in one's job or career.
+897,FAMSURV34B_W50,Being a working parent makes it easier to be a good parent.
+898,FAMSURV35a_W50,One might need to reduce work hours due to the balance of work and parenting responsibilities.
+899,FAMSURV37_W50,"Looking ahead, having children makes it easier to advance in one's job or career."
+900,FAMSURV43_W50,"In general, adult children aged 18 to 29 rely a lot on their parents for emotional support."
+901,FIN_SITMOST_W54,Most Americans are able to live comfortably.
+902,GOVPRIORITYa_W54,Making health care more affordable should be a top priority for the federal government to address.
+903,GOVPRIORITYb_W54,Reducing illegal immigration should be a top priority for the federal government to address.
+904,GOVPRIORITYc_W54,Reducing economic inequality should be a top priority for the federal government to address.
+905,GOVPRIORITYd_W54,Addressing climate change should be a top priority for the federal government.
+906,GOVPRIORITYe_W54,Dealing with terrorism should be a top priority for the federal government to address.
+907,GOVPRIORITYf_W54,Reducing gun violence should be a top priority for the federal government to address.
+908,GOVRESP_a_W54,An adequate standard of living is a responsibility that the federal government should provide for all Americans.
+909,GOVRESP_b_W54,Adequate housing is a responsibility of the federal government to provide for all Americans.
+910,GOVRESP_c_W54,High quality K-12 education is a responsibility of the federal government to provide for all Americans.
+911,GOVRESP_d_W54,A college education is something the federal government has a responsibility to provide for all Americans.
+912,GOVRESP_e_W54,Adequate income in retirement is a responsibility that the federal government should provide for all Americans.
+913,GOVRESP_f_W54,Adequate medical care is a responsibility of the federal government to provide for all Americans.
+914,GOVRESP_g_W54,Health insurance is a responsibility of the federal government to provide for all Americans.
+915,GOVRESP_h_W54,Access to high-speed internet is a responsibility of the federal government to provide for all Americans.
+916,ECON1_W54,"When thinking about the nation's economy, one would rate the economic conditions in this country today as excellent."
+917,ECON1B_W54,"A year from now, it is expected that the economic conditions in the country as a whole will be better."
+918,ECON3_a_W54,The availability of jobs contributes a great deal to the opinion about how the economy is doing.
+919,ECON3_b_W54,The performance of the stock market contributes a great deal to the perception of how the economy is doing.
+920,ECON3_c_W54,Prices for food and consumer goods contribute a great deal to the perception of how the economy is doing.
+921,ECON3_d_W54,The cost of health care contributes a great deal to the opinion about how the economy is doing.
+922,ECON3_e_W54,Real estate values contribute a great deal to the perception of how the economy is doing.
+923,ECON3_f_W54,Gas prices contribute a great deal to the perception of how the economy is doing.
+924,ECON3_g_W54,The federal budget deficit is contributing a great deal to the perception of how the economy is doing.
+925,ECON3_h_W54,Wages and incomes contribute a great deal to the perception of how the economy is doing.
+926,ECON3_i_W54,The country's tax system contributes a great deal to the perception of how the economy is doing.
+927,ECON4_a_W54,The availability of jobs in the area affects my household's financial situation a great deal.
+928,ECON4_b_W54,The performance of the stock market affects my household's financial situation a great deal.
+929,ECON4_c_W54,Prices for food and consumer goods affect one's household financial situation a great deal.
+930,ECON4_d_W54,The cost of health care affects my household's financial situation a great deal.
+931,ECON4_e_W54,Real estate values in the area greatly affect the financial situation of one's household.
+932,ECON4_f_W54,Gas prices affect one's household financial situation a great deal.
+933,ECON4_g_W54,The federal budget deficit affects my household's financial situation a great deal.
+934,ECON4_h_W54,Wages and incomes in one's area affect their household's financial situation a great deal.
+935,ECON4_i_W54,The country's tax system affects my household's financial situation a great deal.
+936,INEQ1_W54,"Thinking about the level of economic inequality in the country these days, there is too much economic inequality."
+937,INEQ2_W54,Some amount of economic inequality is deemed acceptable.
+938,INEQ3_W54,"In order to address economic inequality in this country, our economic system requires only minor changes."
+939,INEQ4_a_W54,The federal government should have a lot of responsibility in reducing economic inequality in our country.
+940,INEQ4_b_W54,State governments should have a lot of responsibility in reducing economic inequality in our country.
+941,INEQ4_c_W54,Large businesses and corporations should have a lot of responsibility in reducing economic inequality in our country.
+942,INEQ4_d_W54,Churches and other religious organizations should have a lot of responsibility in reducing economic inequality in our country.
+943,INEQ4_e_W54,Wealthy individuals should have a lot of responsibility in reducing economic inequality in our country.
+944,INEQ5_a_W54,The outsourcing of jobs to other countries contributes a great deal to economic inequality in this country.
+945,INEQ5_b_W54,Our current trade policies with other countries contribute a great deal to economic inequality in this country.
+946,INEQ5_c_W54,The automation of jobs contributes a great deal to economic inequality in this country.
+947,INEQ5_d_W54,Too much regulation of major corporations contributes a great deal to economic inequality in this country.
+948,INEQ5_e_W54,Not enough regulation of major corporations contributes a great deal to economic inequality in this country.
+949,INEQ5_f_W54,Some people working harder than others contributes a great deal to economic inequality in this country.
+950,INEQ5_g_W54,Our tax system contributes a great deal to economic inequality in this country.
+951,INEQ5_h_W54,The different life choices people make contribute a great deal to economic inequality in this country.
+952,INEQ5_i_W54,Some people starting out with more opportunities than others contributes a great deal to economic inequality in this country.
+953,INEQ5_j_W54,Problems with our educational system contribute a great deal to economic inequality in this country.
+954,INEQ5_k_W54,Discrimination against racial and ethnic minorities contributes a great deal to economic inequality in this country.
+955,INEQ5_l_W54,The growing number of illegal immigrants working in the U.S. contributes a great deal to economic inequality in this country.
+956,INEQ5_m_W54,The growing number of legal immigrants working in the U.S. contributes a great deal to economic inequality in this country.
+957,INEQ6_W54,"Thinking about children growing up in this country these days, their family's financial situation impacts their ability to succeed in life a great deal."
+958,INEQ7_W54,"In the area where children are growing up these days, their family's financial situation impacts their ability to succeed in life a great deal."
+959,INEQ8_a_W54,Increasing the federal minimum wage would do a great deal to reduce economic inequality in the U.S.
+960,INEQ8_b_W54,Making college tuition free at both public two-year and four-year colleges would do a great deal to reduce economic inequality in the U.S.
+961,INEQ8_c_W54,Increasing taxes on the wealthiest Americans would do a great deal to reduce economic inequality in the U.S.
+962,INEQ8_d_W54,Expanding Medicare so that it covers Americans of all ages would do a great deal to reduce economic inequality in the U.S.
+963,INEQ8_e_W54,Ensuring that workers have the skills they need for today's jobs would do a great deal to reduce economic inequality in the U.S.
+964,INEQ8_f_W54,Making college tuition free at public two-year colleges would do a great deal to reduce economic inequality in the U.S.
+965,INEQ8_g_W54,Eliminating college debt would do a great deal to reduce economic inequality in the U.S.
+966,INEQ8_h_W54,Reducing illegal immigration would do a great deal to reduce economic inequality in the U.S.
+967,INEQ8_i_W54,Expanding government benefits for the poor would do a great deal to reduce economic inequality in the U.S.
+968,INEQ8_j_W54,Breaking up large corporations would do a great deal to reduce economic inequality in the U.S.
+969,INEQ9_W54,"In order to address economic inequality in this country, it would be better for the government to give direct assistance to people who are poor in the form of cash payments or tax credits."
+970,INEQ10_W54,"In order to address economic inequality in this country, the government should raise taxes on the wealthiest Americans."
+971,INEQ11_W54,"In order to address economic inequality in this country, the government should raise taxes on people like you."
+972,ECON5_b_W54,The country's current economic conditions are helping the wealthy a lot.
+973,ECON5_c_W54,The country's current economic conditions are helping the middle class a lot.
+974,ECON5_d_W54,The country's current economic conditions are helping the poor a lot.
+975,ECON5_e_W54,The country's current economic conditions are helping older adults a lot.
+976,ECON5_f_W54,The country's current economic conditions are helping young adults a lot.
+977,ECON5_g_W54,The country's current economic conditions are helping people who are white a lot.
+978,ECON5_h_W54,The country's current economic conditions are helping people who are black a lot.
+979,ECON5_i_W54,The country's current economic conditions are helping Hispanic people a lot.
+980,ECON5_j_W54,The country's current economic conditions are helping people without college degrees a lot.
+981,ECON5_k_W54,The country's current economic conditions are helping people with college degrees a lot.
+982,ECIMPa_W54,Politicians have too much power and influence on today's economy.
+983,ECIMPb_W54,Technology companies have too much power and influence on today's economy.
+984,ECIMPc_W54,Labor unions have too much power and influence on today's economy.
+985,ECIMPd_W54,Banks and other financial institutions have too much power and influence on today's economy.
+986,ECIMPe_W54,Small businesses have too much power and influence on today's economy.
+987,ECIMPf_W54,Large corporations have too much power and influence on today's economy.
+988,ECIMPg_W54,People who are wealthy have too much power and influence on today's economy.
+989,ECIMPh_W54,People who are poor have too much power and influence on today's economy.
+990,ECIMPi_W54,The middle class has too much power and influence on today's economy.
+991,ECIMPj_W54,Health insurance companies have too much power and influence on today's economy.
+992,WORKHARD_W53,Most people who want to get ahead can make it if they're willing to work hard.
+993,POOREASY_W53,Poor people today have it easy because they can get government benefits without doing anything in return.
+994,ECONFAIR_W53,The economic system in this country unfairly favors powerful interests.
+995,GAP21Q1_W82,The current economic situation in the US is very good.
+996,GAP21Q2_W82,"When children today in the US grow up, they will be better off financially than their parents."
+997,GAP21Q3_W82,One should be very satisfied with the way democracy is working in the US.
+998,GAP21Q4_f_W82,"One should have a very favorable opinion of NATO, that is, the North Atlantic Treaty Organization."
+999,GAP21Q5_a_W82,The government of China respects the personal freedoms of its people.
+1000,GAP21Q5_b_W82,The government of the US respects the personal freedoms of its people.
+1001,GAP21Q6_W82,Democracy in the US is a good example for other countries to follow.
+1002,GAP21Q7_a_W82,The US has done a very good job dealing with the coronavirus outbreak.
+1003,GAP21Q7_b_W82,China has done a very good job dealing with the coronavirus outbreak.
+1004,GAP21Q7_c_W82,The European Union has done a very good job dealing with the coronavirus outbreak.
+1005,GAP21Q7_d_W82,"The World Health Organization, or WHO, has done a very good job dealing with the coronavirus outbreak."
+1006,GAP21Q7_e_W82,Germany has done a very good job dealing with the coronavirus outbreak.
+1007,GAP21Q8_W82,"As a result of the coronavirus outbreak, one's life has changed a great deal."
+1008,GAP21Q9_W82,"Thinking about the US as a whole, this country is now more united than before the coronavirus outbreak."
+1009,GAP21Q10_W82,"Considering the restrictions on public activity in the US over the course of the coronavirus outbreak, there should have been more restrictions."
+1010,GAP21Q11_W82,America's economy is recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system.
+1011,GAP21Q12_W82,There is a great deal of confidence in the US healthcare system to handle a future global health emergency that might occur.
+1012,GAP21Q13_a_W82,The economic system in the US needs to be completely reformed.
+1013,GAP21Q13_b_W82,"Considering the US, the healthcare system needs to be completely reformed."
+1014,GAP21Q13_c_W82,The US political system needs to be completely reformed.
+1015,GAP21Q14_W82,One can be very confident that America's political system can be changed effectively.
+1016,GAP21Q15_a_W82,"When compared to other developed nations in various areas, the US healthcare system is the best."
+1017,GAP21Q15_b_W82,"When compared to other developed nations in various areas, the US has the best colleges and universities."
+1018,GAP21Q15_c_W82,"When compared to other developed nations in various areas, the US has the best standard of living."
+1019,GAP21Q15_d_W82,"When compared to other developed nations in various areas, the US military is the best."
+1020,GAP21Q15_e_W82,"When compared to other developed nations in various areas, the US has the best technological achievements."
+1021,GAP21Q15_f_W82,"When compared to other developed nations in various areas, the US is the best in entertainment, including movies, music, and television."
+1022,GAP21Q17_W82,"In making international policy decisions, the US takes into account the interests of other countries around the world to a great deal."
+1023,GAP21Q18_W82,"The US should try to promote human rights in China, even if it harms economic relations with China."
+1024,GAP21Q19_a_W82,There is a lot of confidence in US President Joe Biden to do the right thing regarding world affairs.
+1025,GAP21Q19_b_W82,One should have a lot of confidence in Chinese President Xi Jinping to do the right thing regarding world affairs.
+1026,GAP21Q19_c_W82,One should have a lot of confidence in Russian President Vladimir Putin to do the right thing regarding world affairs.
+1027,GAP21Q19_d_W82,One should have a lot of confidence in German Chancellor Angela Merkel to do the right thing regarding world affairs.
+1028,GAP21Q19_e_W82,One should have a lot of confidence in French President Emmanuel Macron to do the right thing regarding world affairs.
+1029,GAP21Q20_W82,"Overall, having people of many different backgrounds, such as different ethnic groups, religions, and races, makes the US a better place to live."
+1030,GAP21Q21_a_W82,"In the US, conflicts between people who support different political parties are very strong."
+1031,GAP21Q21_b_W82,"In the US, there are very strong conflicts between people who live in cities and people who live in rural areas."
+1032,GAP21Q21_c_W82,"In the US, there are very strong conflicts between people who are religious and people who are not religious."
+1033,GAP21Q21_d_W82,"In the US, there are very strong conflicts between people with different ethnic or racial backgrounds."
+1034,GAP21Q21_e_W82,"In the US, there are very strong conflicts between people who practice different religions."
+1035,GAP21Q22_W82,"When it comes to important issues facing the US, most people agree on the basic facts, even though they may disagree over policies."
+1036,GAP21Q23_W82,"In the US, discrimination against people based on their race or ethnicity is a very serious problem."
+1037,GAP21Q24_W82,One should be very concerned that global climate change will cause personal harm at some point in their lifetime.
+1038,GAP21Q25_W82,One should be willing to make a lot of changes about how they live and work to help reduce the effects of global climate change.
+1039,GAP21Q26_a_W82,The US is doing a very good job dealing with global climate change.
+1040,GAP21Q26_b_W82,The United Nations are doing a very good job dealing with global climate change.
+1041,GAP21Q26_c_W82,China is doing a very good job dealing with global climate change.
+1042,GAP21Q26_d_W82,The European Union is doing a very good job dealing with global climate change.
+1043,GAP21Q27_W82,"Actions taken by the international community to address global climate change, such as the Paris climate agreement, will mostly benefit America's economy."
+1044,GAP21Q28_W82,One should be very confident that the actions taken by the international community will significantly reduce the effects of global climate change.
+1045,GAP21Q29_W82,The US should be the single world leader in the world.
+1046,GAP21Q30_W82,The US should be the most active among the leading nations.
+1047,GAP21Q31_W82,It is very important that the US is generally respected by other countries around the world.
+1048,GAP21Q32_W82,"Now that Joe Biden is president, other countries view the U.S a lot more positively."
+1049,GAP21Q33_a_W82,Preventing the spread of weapons of mass destruction should be given top priority when thinking about long-range foreign policy goals.
+1050,GAP21Q33_b_W82,Protecting the jobs of American workers should be given top priority when thinking about long-range foreign policy goals.
+1051,GAP21Q33_c_W82,Strengthening the United Nations should be given top priority when thinking about long-range foreign policy goals.
+1052,GAP21Q33_d_W82,Reducing US military commitments overseas should be given top priority when thinking about long-range foreign policy goals.
+1053,GAP21Q33_e_W82,Limiting the power and influence of Russia should be given top priority when thinking about long-range foreign policy goals.
+1054,GAP21Q33_f_W82,Promoting democracy in other nations should be given top priority when thinking about long-range foreign policy goals.
+1055,GAP21Q33_g_W82,"When considering long-range foreign policy goals, reducing illegal immigration into the US should be given top priority."
+1056,GAP21Q33_h_W82,Limiting the power and influence of China should be given top priority when thinking about long-range foreign policy goals.
+1057,GAP21Q33_i_W82,Maintaining the US military advantage over all other countries should be given top priority when thinking about long-range foreign policy goals.
+1058,GAP21Q33_j_W82,Dealing with global climate change should be given top priority when thinking about long-range foreign policy goals.
+1059,GAP21Q33_k_W82,Reducing our trade deficit with foreign countries should be given top priority when thinking about long-range foreign policy goals.
+1060,GAP21Q33_l_W82,Promoting and defending human rights in other countries should be given top priority when thinking about long-range foreign policy goals.
+1061,GAP21Q33_m_W82,"When thinking about long-range foreign policy goals, reducing the spread of infectious diseases should be given top priority."
+1062,GAP21Q33_n_W82,Limiting the power and influence of Iran should be given top priority when thinking about long-range foreign policy goals.
+1063,GAP21Q33_o_W82,Improving relationships with our allies should be given top priority when thinking about long-range foreign policy goals.
+1064,GAP21Q33_p_W82,Taking measures to protect the U.S. from terrorist attacks should be given top priority when thinking about long-range foreign policy goals.
+1065,GAP21Q33_q_W82,"Thinking about long-range foreign policy goals, getting other countries to assume more of the costs of maintaining world order should be given top priority."
+1066,GAP21Q33_r_W82,Aiding refugees fleeing violence around the world should be given top priority when thinking about long-range foreign policy goals.
+1067,GAP21Q33_s_W82,Reducing legal immigrations into the US should be given top priority when thinking about long-range foreign policy goals.
+1068,GAP21Q33_t_W82,Limiting the power and influence of North Korea should be given top priority when thinking about long-range foreign policy goals.
+1069,GAP21Q34_a_W82,"When thinking about Joe Biden's ability to handle a number of things, one should be very confident that Joe Biden can make good decisions about international trade."
+1070,GAP21Q34_b_W82,"When thinking about Joe Biden's ability to handle a number of things, one should be very confident that Joe Biden can deal effectively with the threat of terrorism."
+1071,GAP21Q34_c_W82,"When thinking about Joe Biden's ability to handle a number of things, one should be very confident that Joe Biden can make good decisions about the use of military force."
+1072,GAP21Q34_d_W82,"When thinking about Joe Biden's ability to handle a number of things, one should be very confident that Joe Biden can deal effectively with global climate change."
+1073,GAP21Q34_e_W82,"When thinking about Joe Biden's ability to handle a number of things, one should be very confident that Joe Biden can improve relationships with our allies."
+1074,GAP21Q34_f_W82,"When thinking about Joe Biden's ability to handle a number of things, one should be very confident that Joe Biden can deal effectively with China."
+1075,GAP21Q35_W82,Many of the problems facing our country can be solved by working with other countries.
+1076,GAP21Q36_W82,"In foreign policy, the US should take into account the interests of its allies even if it means making compromises."
+1077,GAP21Q37_W82,The best course for the future of our country is to be active in world affairs.
+1078,GAP21Q38_a_W82,"The US benefits a great deal from being a member of the North Atlantic Treaty Organization, or NATO."
+1079,GAP21Q38_b_W82,The US benefits a great deal from being a member of the United Nations organizations.
+1080,GAP21Q38_c_W82,"The US benefits a great deal from being a member of the World Health Organization, or WHO organizations."
+1081,GAP21Q40_W82,"On balance, China is thought of as a partner of the US."
+1082,GAP21Q41_W82,"Overall, the current economic relations between the US and China are very good."
+1083,GAP21Q42_W82,Building a strong relationship with China on economic issues is more important when thinking about our economic and trade policy toward China.
+1084,GAP21Q43_a_W82,The loss of US jobs to China is a very serious problem for the US.
+1085,GAP21Q43_b_W82,The US trade deficit with China is a very serious problem for the US.
+1086,GAP21Q43_c_W82,China's policies on human rights pose a very serious problem for the US.
+1087,GAP21Q43_d_W82,Tensions between China and Taiwan would be a very serious problem for the US.
+1088,GAP21Q43_e_W82,Cyberattacks from China pose a very serious problem for the US.
+1089,GAP21Q43_f_W82,China's growing military power is a very serious problem for the US.
+1090,GAP21Q43_g_W82,China's growing technological power is a very serious problem for the US.
+1091,GAP21Q43_h_W82,Tensions between Mainland China and Hong Kong present a very serious problem for the US.
+1092,GAP21Q46_W82,It's good for US colleges and universities to accept international students.
+1093,GAP21Q47_W82,"When it comes to whether or not to limit Chinese students studying in the US, one should strongly support limiting Chinese students."
+1094,POL1JB_W92,The way Joe Biden is handling his job as president is approved.
+1095,LIFEFIFTY_W92,"In general, life in America today is better than it was 50 years ago."
+1096,BIGHOUSES_W92,"Living in a community where the houses are larger and farther apart, but schools, stores, and restaurants are several miles away is preferable."
+1097,INSTN_CHR_W92,Churches and religious organizations are having a positive effect on the way things are going in the country these days.
+1098,INSTN_CLGS_W92,Colleges and universities are having a positive effect on the way things are going in the country these days.
+1099,INSTN_LGECRP_W92,Large corporations are having a positive effect on the way things are going in the country these days.
+1100,INSTN_MSCENT_W92,The entertainment industry is having a positive effect on the way things are going in the country these days.
+1101,INSTN_LBRUN_W92,Labor unions are having a positive effect on the way things are going in the country these days.
+1102,INSTN_K12_W92,K-12 public schools are having a positive effect on the way things are going in the country these days.
+1103,INSTN_BNKS_W92,Banks and other financial institutions are having a positive effect on the way things are going in the country these days.
+1104,INSTN_TECHCMP_W92,Technology companies are having a positive effect on the way things are going in the country these days.
+1105,DIFFPARTY_W92,"Thinking about the Democratic and Republican parties, there is a great deal of difference in what they stand for."
+1106,GOVSIZE1_W92,"If one had to choose, they would rather have a smaller government providing fewer services."
+1107,GOVSIZE2_W92,"When advocating for a smaller government providing fewer services, it would be better to eliminate most current government services."
+1108,GOVSIZE3_W92,"When advocating for a bigger government providing more services, it would be better to modestly expand on current government services."
+1109,USEXCEPT_W92,The U.S. stands above all other countries in the world.
+1110,WOMENOBS_W92,The obstacles that once made it harder for women than men to get ahead are now largely gone.
+1111,ECONFAIR_W92,The economic system in this country unfairly favors powerful interests.
+1112,OPENIDEN_W92,America's openness to people from all over the world is essential to who we are as a nation.
+1113,VTRGHTPRIV1_W92,Voting is a fundamental right for every adult U.S. citizen and should not be restricted in any way.
+1114,ALLIES_W92,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises."
+1115,PEACESTR_W92,The best way to ensure peace is through military strength.
+1116,GOVWASTE_W92,The government is almost always wasteful and inefficient.
+1117,COMPROMISEVAL_W92,Compromise in politics is really just selling out on what you believe in.
+1118,POORASSIST_W92,"When thinking about the assistance the government provides to people in need, it is believed that the government should provide more assistance."
+1119,PAR2CHILD_W92,Children with two parents are better off when a parent stays home to focus on the family.
+1120,PAR2CHILDa_W92,"If one parent is able to stay home to focus on the family, it is generally better if that parent is the mother."
+1121,POLICY3MOD_W92,"In general, experts who study a subject for many years are usually better at making good policy decisions about that subject than other people."
+1122,WHADVANT_W92,"In general, White people benefit a great deal from advantages in society that Black people do not have."
+1123,SUPERPWR_W92,"In the future, U.S. policies should strive to keep America as the only military superpower."
+1124,IL_IMM_PRI_W92,The priority for dealing with illegal immigration in the U.S. should be better border security and stronger enforcement of our immigration laws.
+1125,BILLION_W92,The fact that there are some people in this country who have personal fortunes of a billion dollars or more is a good thing for the country.
+1126,GLBLZE_W92,"All in all, the U.S. has gained more than it has lost from increased trade."
+1127,FP_AUTH_W92,"In foreign policy, the U.S. should work with any country to achieve U.S. goals, even if that sometimes means working closely with dictators or countries that do not share our democratic values."
+1128,GOVTHC_W92,It is the responsibility of the federal government to make sure all Americans have health care coverage.
+1129,SNGLPYER_W92,Health insurance should be provided through a single national health insurance system run by the government.
+1130,NOGOVTHC_W92,The government should not be involved in providing health insurance at all.
+1131,FREECOLL_W92,Making tuition at public colleges and universities free for all American students is strongly favored.
+1132,CRIM_SENT2_W92,"Overall, people who are convicted of crimes in this country serve too much time in prison."
+1133,USMILSIZ_W92,The size of America's military should be reduced a great deal.
+1134,PROG_RRETRO_W92,The country has made a lot of progress over the last 50 years toward ensuring equal rights for all Americans regardless of their racial or ethnic backgrounds.
+1135,PROG_RNEED_W92,A lot more needs to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds.
+1136,PROG_RNEED2b_W92,"To ensure equal rights for all Americans regardless of their racial or ethnic backgrounds, most U.S. laws and major institutions need to be completely rebuilt because they are fundamentally biased."
+1137,ELITEUNDMOD_W92,"In general, people in influential and powerful positions throughout our society understand the challenges that individuals face in their daily lives very well."
+1138,POLINTOL2_a_W92,"In general, Republicans in this country are very comfortable to freely and openly express their political views."
+1139,POLINTOL2_b_W92,"In general, Democrats in this country are very comfortable to freely and openly express their political views."
+1140,CANQUALPOL_W92,"In general, the quality of the candidates running for political office in the last several years has been very good."
+1141,SOCIETY_TRANS_W92,Greater social acceptance of people who are transgender (people who identify as a gender that is different from the sex they were assigned at birth) is very good for our society.
+1142,SOCIETY_RHIST_W92,Increased public attention to the history of slavery and racism in America is very good for our society.
+1143,SOCIETY_JBCLL_W92,Good-paying jobs requiring a college degree more often than they used to is very good for our society.
+1144,SOCIETY_RELG_W92,A decline in the share of Americans belonging to an organized religion is very good for our society.
+1145,SOCIETY_WHT_W92,White people declining as a share of the U.S. population is very good for society.
+1146,SOCIETY_GUNS_W92,An increase in the number of guns in the U.S. is very good for society.
+1147,SOCIETY_SSM_W92,Same-sex marriages being legal in the U.S. is very good for our society.
+1148,PROBOFF_a_W92,People being too easily offended by things others say is a major problem in the country today.
+1149,PROBOFF_b_W92,People saying things that are very offensive to others are a major problem in the country today.
+1150,BUSPROFIT_W92,Business corporations make too much profit.
+1151,CNTRYFAIR_W92,Other countries generally treat the United States about as fairly as the United States treats them.
+1152,GOVPROTCT_W92,It's not the government's job to protect people from themselves.
+1153,MARRFAM_W92,Society is better off when people make marriage and having children a priority.
+1154,GOVAID_W92,"Government aid to the poor does more harm than good, by making people too dependent on government assistance."
+1155,RELIG_GOV_W92,Religion should be kept separate from government policies.
+1156,GOODEVIL_W92,Most things in society can be pretty clearly divided into good and evil.
+1157,RACESURV52MOD_W92,Hearing people regularly speak a language other than English in public places in one's community would be bothersome.
+1158,ELECT_IMPT3_PRVFR_W92,"Thinking about elections in the country, it is very important that people who are not legally qualified to vote are prevented from casting a ballot."
+1159,ELECT_IMPT3_PRVSUP_W92,"Thinking about elections in the country, it is very important that people who are legally qualified and want to vote are able to cast a ballot."
+1160,ELECT_CONF3_PRVFR_W92,"When considering elections in the country, one can be very confident that people who are not legally qualified to vote are prevented from casting a ballot."
+1161,ELECT_CONF3_PRVSUP_W92,"When considering elections in the country, one can be very confident that people who are legally qualified and want to vote are able to cast a ballot."
+1162,CANDEXP_W92,It is very important that candidates running for high levels of political office have prior government experience.
+1163,LEGALIMMIGAMT_W92,The number of legal immigrants the U.S. admits should increase a lot.
+1164,UNIMMIGCOMM_W92,"When it comes to people who have immigrated to the U.S illegally, they generally make the communities they live in a lot better."
+1165,GODMORALIMP_W92,"Regardless of one's own religious beliefs, it is essential for a person to believe in God in order to be considered good and moral."
+1166,VTRS_VALS_W92,"Even if two people may feel differently about politics, they probably share many other values and goals."

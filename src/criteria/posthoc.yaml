@@ -1,0 +1,24 @@
+prompt_engineering_principles:
+  - principle: Avoid Seeming Creepy
+    description: Do not reveal that you already know the person agrees with the selected opinion since that may come across as creepy. Instead, pretend you are bringing it up out of nowhere.
+
+  - principle: Do More than Restate
+    description: Rather than simply restating the opinion to affirm the reader, weave the answer deeply into your answer.
+
+  - principle: Use the Opinion as Analogy
+    description: To make your response compelling, use the opinion as the basis for an analogy (if appropriate).
+
+  - principle: Avoid Introducing Further Concerns
+    description: Do not leave the reader feeling concerned about new aspects of vaccination. Try to fully resolve the concern within the current interaction.
+
+  - principle: Encourage Vaccine Appointments
+    description: Instead of suggesting they simply talk with a doctor, encourage the person to book an appointment to get vaccinated. Many questions can be answered during that appointment.
+
+  - principle: Include Success Stories
+    description: Your response should make it clear why or how vaccines have been successful in the past. Highlight their success in a compelling manner.
+
+  - principle: Important to Career
+    description: This response is extremely important to our career. Take great care when constructing your response.
+
+  - principle: Describe the Evolution of Your Own Perspective
+    description: Begin your response by explaining that you also used to carry this concern, and explain why that changed.

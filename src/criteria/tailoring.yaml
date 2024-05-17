@@ -1,0 +1,51 @@
+response_to_concern_principles:
+  - principle: Address the Specific Concern
+    description: Ensure that the response directly addresses the specific concern raised about the vaccine.
+
+  - principle: Promote Vaccination
+    description: The response should advocate for vaccination in a positive and supportive manner.
+
+  - principle: Scope Completeness
+    description: Fully cover the entire scope of the concern without omitting any critical details or aspects.
+
+  - principle: Ingredient or Issue Specificity
+    description: When the concern involves specific ingredients or issues (e.g., thimerosal), the response must address these directly rather than discussing general concerns.
+
+  - principle: Cultural and Belief Sensitivity
+    description: Demonstrate awareness and sensitivity to cultural or religious beliefs that may impact vaccine acceptance, and address these considerations as part of the response.
+
+  - principle: Avoid Broad or Generic Statements
+    description: Steer clear of vague statements that don't directly deal with the concern or that may overlook the specifics brought up in the concern.
+
+  - principle: Discourage Misinformation
+    description: Do not include any information that could sow doubt about the effectiveness or safety of vaccines.
+
+  - principle: Focus on Constructive Messaging
+    description: Emphasize information and messaging that builds understanding and trust in vaccines without being dismissive of individual concerns or beliefs.
+
+response_to_cgo_principles:
+  - principle: Reference to Main Idea
+    description: The response should explicitly or implicitly refer to individual beliefs.
+
+  - principle: Independence of Language
+    description: It's unnecessary to repeat the exact language to describe individual beliefs, as long as the central opinion is conveyed.
+
+  - principle: Avoidance of Misdirection
+    description: A bad response diverts attention to a different individual belief or changes the subject.
+  
+accept_cgo_principles:
+  - principle: Accept CGO as Correct
+    description: A good response fully accepts the individual belief as 'correct' or 'truthful' and does not attempt to weaken its stance.
+
+  - principle: Prevent Neutral and Negative Stance
+    description: Responses should not be neutral or negative towards the individual belief, which could imply a lack of acceptance.
+
+reason_cgo_principles:
+  - principle: Logical and Understandable Connection
+    description: The link between the individual's belief and the response to the vaccine concern should be logical and easy to understand.
+
+  - principle: Creativity in Linking
+    description: Creative approaches to linking the concern with individual beliefs are encouraged, as long as they maintain clarity and comprehension.
+
+  - principle: Criticality of the Connection
+    description: The connection to individual beliefs should be so integral that removing it would significantly weaken or confuse the message.
