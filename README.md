@@ -136,8 +136,7 @@ For further explanation of how the data is collected, please see [our paper](URL
 # Automatic Evaluation
 We release the model weights for our automatic evaluators, both $BERT_{REL}$ and $BERT_{ABS}$. Below is a demonstration of how to use these models:
 
-`local/regression-fine-2e-ckpt/last-release.ckpt` is the $BERT_{ABS}$ fine-tuned model, which predicts a score for just one response.
-`local/margin-fine-2e-ckpt/last-release.ckpt` is the $BERT_{REL}$ fine-tuned model, which ranks two responses against one another.
+Download and open our latest release. This will download model weights and place them in the `local/` directory. Then, generate predictions according to this demo below:
 
 ```python
 from models.regression import Finetuner
