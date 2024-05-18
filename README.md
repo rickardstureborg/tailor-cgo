@@ -19,7 +19,7 @@ dataset = load_dataset("DukeNLP/tailor-cgo", "absolute_scores")
 You can view the full datacard on huggingface: https://huggingface.co/datasets/DukeNLP/tailor-cgo
 
 Datapoints have the following structure:
-```JSON
+```JavaScript
 // Example of absolute score annotation
 {
  "response_id": 96, 
@@ -51,7 +51,7 @@ Datapoints have the following structure:
 }
 ```
 
-```JSON
+```JavaScript
 // Example of relative preference annotation
 {
  "responseA": {
