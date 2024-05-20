@@ -1,6 +1,6 @@
 # tailor-cgo
 
-This repo is for our NAACL Findings 2024 paper ["Tailoring Vaccine Messaging with Common-Ground Opinions"](URL-not-available-yet). We provide the data download scripts for both human-labeled and LLM-labeled responses, model weights for the BERT automatic evaluators, and inference scripts to assess how well-tailored a response of interest is.
+This repo is for our NAACL Findings 2024 paper ["Tailoring Vaccine Messaging with Common-Ground Opinions"](https://arxiv.org/abs/2405.10861). We provide the data download scripts for both human-labeled and LLM-labeled responses, model weights for the BERT automatic evaluators, and inference scripts to assess how well-tailored a response of interest is.
 
 We describe the dataset here (#Tailor-CGO Dataset), along with a tutorial of how to run automatic evaluation (#Automatic Evaluation).
 This work builds on lots of previous work, mentioned in the last section (#Citations).
@@ -131,7 +131,7 @@ NOTE:
 > 
 > **Unlike rest of files, these comparisons are non-iid. We do not use these files in our paper but make them available here.
 
-For further explanation of how the data is collected, please see [our paper](URL-not-available-yet).
+For further explanation of how the data is collected, please see [our paper](https://arxiv.org/abs/2405.10861).
 
 # Automatic Evaluation
 We release the model weights for our automatic evaluators, both $BERT_{REL}$ and $BERT_{ABS}$. Below is a demonstration of how to use these models:
@@ -173,7 +173,14 @@ print(scores)
 If you use this content in your work, please cite our paper:
 
 ```bibtex
-// TBD: not on arxiv yet
+@misc{stureborg2024tailoring,
+      title={Tailoring Vaccine Messaging with Common-Ground Opinions}, 
+      author={Rickard Stureborg and Sanxing Chen and Ruoyu Xie and Aayushi Patel and Christopher Li and Chloe Qinyu Zhu and Tingnan Hu and Jun Yang and Bhuwan Dhingra},
+      year={2024},
+      eprint={2405.10861},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 If you mention the taxonomy of vaccine concerns (VaxConcerns) which the dataset is based on, please cite this paper:
